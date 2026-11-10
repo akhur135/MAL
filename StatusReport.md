@@ -113,3 +113,10 @@ I led the USDA food access data. I found that ERS had renamed the atlas the 2019
 [`profile_usda.py`](scripts/quality/profile_usda.py) I discovered that blank low-access counts occur only in unflagged tracts, and I used the
 ERS flag rule to bound them. [`clean_usda.py`](scripts/clean/clean_usda.py) builds the 1-mile/10-mile measure, which matches ERS exactly, and
 aggregates tracts to counties. I defined the urban/rural rule, fixed the missing project-plan release, and drafted this report.
+
+### Elizabeth Abraham
+I led the OpenStreetMap restaurant data. When the public Overpass servers were too overloaded to use, I moved acquisition to the ohsome API
+in [`acquire_osm.py`](scripts/acquire/acquire_osm.py), pinned to the 2026-07-27 snapshot. In [`profile_osm.py`](scripts/quality/profile_osm.py)
+I identified 34 non-restaurant features, including PlayPlace playgrounds, Ronald McDonald Houses, closed locations, a camera and a sign.
+[`clean_osm.py`](scripts/clean/clean_osm.py) removes them with logged reasons and merges duplicates. I also acquired the TIGER county boundaries
+and wrote [`assign_counties.py`](scripts/integrate/assign_counties.py), the spatial join that placed 652 restaurants in Illinois counties and logged the 177 restaurants outside the state.
