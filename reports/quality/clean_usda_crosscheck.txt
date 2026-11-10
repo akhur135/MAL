@@ -1,0 +1,3 @@
+Tracts where ERS LAPOP1_10 and our lapop1/lapop10 rule are both present: 1685
+Tracts differing by more than 1 person: 0
+Max absolute difference: 0.0

@@ -1,0 +1,91 @@
+{
+  "completeness": {
+    "rows": 102,
+    "expected": 102,
+    "unique_fips": 102,
+    "nulls_in_key_columns": {
+      "mcd_count": 0,
+      "acs_population": 0,
+      "median_hh_income": 0,
+      "usda_pop2010": 0,
+      "pct_low_access_1_10": 0,
+      "pct_pop_in_lila_tracts": 0,
+      "pct_pop_urban_tracts": 0,
+      "land_area_sqmi": 0
+    },
+    "restaurants_clean": 829,
+    "restaurants_assigned": 652,
+    "restaurants_in_integrated_total": 652,
+    "counties_with_zero_restaurants": 17,
+    "min_usda_la_coverage_pct": 100.0
+  },
+  "consistency": {
+    "county_names_match_acs": 102,
+    "county_names_match_usda": 102,
+    "mismatched_names": [],
+    "duplicate_fips": 0
+  },
+  "accuracy": {
+    "acs_total_population": 12694798,
+    "usda_total_pop2010": 12830632,
+    "pop_change_pct_median": -6.12,
+    "counties_pop_change_abs_gt_15pct": [
+      {
+        "county_name": "Alexander",
+        "pop_change_2010_to_acs_pct": "-40.82"
+      },
+      {
+        "county_name": "Greene",
+        "pop_change_2010_to_acs_pct": "-15.86"
+      },
+      {
+        "county_name": "Hardin",
+        "pop_change_2010_to_acs_pct": "-16.55"
+      },
+      {
+        "county_name": "Henderson",
+        "pop_change_2010_to_acs_pct": "-15.52"
+      },
+      {
+        "county_name": "Kendall",
+        "pop_change_2010_to_acs_pct": "19.99"
+      },
+      {
+        "county_name": "McDonough",
+        "pop_change_2010_to_acs_pct": "-17.45"
+      },
+      {
+        "county_name": "Pope",
+        "pop_change_2010_to_acs_pct": "-16.35"
+      },
+      {
+        "county_name": "Pulaski",
+        "pop_change_2010_to_acs_pct": "-18.6"
+      }
+    ],
+    "statewide_mcd_per_100k": 5.14,
+    "outlier_counties_mcd_per_100k_z_gt_3": [
+      {
+        "county_name": "Brown",
+        "mcd_count": "1",
+        "acs_population": "6322",
+        "mcd_per_100k": "15.818"
+      },
+      {
+        "county_name": "Edwards",
+        "mcd_count": "1",
+        "acs_population": "6075",
+        "mcd_per_100k": "16.461"
+      }
+    ],
+    "pct_values_in_0_100": true,
+    "addr_state_vs_spatial_join": {
+      "tagged_IL_placed_in_IL": 585,
+      "tagged_IL_placed_outside": 1,
+      "tagged_other_state_placed_in_IL": 0,
+      "tagged_other_state_placed_outside": 139,
+      "no_state_tag_placed_in_IL": 67
+    },
+    "chicago_addresses_in_cook": "102 of 102 'Chicago' addresses fall in Cook County"
+  }
+}

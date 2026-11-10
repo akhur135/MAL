@@ -1,0 +1,36 @@
+osm_uid,name,action,reason
+node/7278043526,McDonald's,dropped,closed (disused/was/end_date tag)
+way/253672664,McDonald's,dropped,closed (disused/was/end_date tag)
+node/11391328740,McDonald's PlayPlace,dropped,PlayPlace playground mapped separately
+node/13781529532,McDonald's PlayPlace,dropped,PlayPlace playground mapped separately
+node/13781633736,McDonald's PlayPlace,dropped,PlayPlace playground mapped separately
+node/13781677866,McDonald's PlayPlace,dropped,PlayPlace playground mapped separately
+node/13781677868,McDonald's PlayPlace,dropped,PlayPlace playground mapped separately
+node/8486527210,McDonald's PlayPlace,dropped,PlayPlace playground mapped separately
+node/4461101677,McDonald's PlayPlace,dropped,PlayPlace playground mapped separately
+node/11296630101,McDonald's PlayPlace,dropped,PlayPlace playground mapped separately
+node/11296630110,McDonald's PlayPlace,dropped,PlayPlace playground mapped separately
+node/13733566646,McDonald's PlayPlace,dropped,PlayPlace playground mapped separately
+node/13733566647,McDonald's PlayPlace,dropped,PlayPlace playground mapped separately
+node/7888454403,McDonald's PlayPlace,dropped,PlayPlace playground mapped separately
+node/13861395263,McDonald's PlayPlace,dropped,PlayPlace playground mapped separately
+node/13910529916,McDonald's PlayPlace,dropped,PlayPlace playground mapped separately
+node/12152082373,McDonald's PlayPlace,dropped,PlayPlace playground mapped separately
+node/13759134714,McDonald's PlayPlace,dropped,PlayPlace playground mapped separately
+node/11442254174,McDonald's PlayPlace,dropped,PlayPlace playground mapped separately
+node/13630920498,McDonald's PlayPlace,dropped,PlayPlace playground mapped separately
+node/13776710435,McDonald's PlayPlace,dropped,PlayPlace playground mapped separately
+node/13781656529,McDonald's PlayPlace,dropped,PlayPlace playground mapped separately
+node/13781656530,McDonald's PlayPlace,dropped,PlayPlace playground mapped separately
+node/13781695929,McDonald's PlayPlace,dropped,PlayPlace playground mapped separately
+node/13799358519,McDonald's PlayPlace,dropped,PlayPlace playground mapped separately
+way/420277524,Ronald McDonald House,dropped,charity: Ronald McDonald House
+way/816418236,Ronald McDonald House,dropped,charity: Ronald McDonald House
+way/1044127617,Ronald McDonald House,dropped,charity: Ronald McDonald House
+way/210911168,Ronald McDonald House,dropped,charity: Ronald McDonald House
+way/1297157936,Ronald McDonald House,dropped,charity: Ronald McDonald House
+way/159919753,Ronald McDonald House,dropped,charity: Ronald McDonald House
+way/235912300,Ronald McDonald House,dropped,charity: Ronald McDonald House
+node/11179342843,McDonald's,dropped,"other object (sign, camera, etc.), not a restaurant"
+node/13991136761,,dropped,"other object (sign, camera, etc.), not a restaurant"
+way/551176631,McDonald's,merged,near-duplicate of node/12729727984

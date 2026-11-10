@@ -1,0 +1,42 @@
+{
+  "n_rows": 102,
+  "completeness": {
+    "expected_counties": 102,
+    "missing_counties": 0,
+    "null_or_nonnumeric": {
+      "B01003_001E": 0,
+      "B01003_001M": 0,
+      "B19013_001E": 0,
+      "B19013_001M": 0
+    },
+    "sentinel_values": {
+      "B01003_001E": 0,
+      "B01003_001M": 102,
+      "B19013_001E": 0,
+      "B19013_001M": 0
+    }
+  },
+  "accuracy": {
+    "income_cv_pct_median": 3.38,
+    "income_cv_pct_max": 13.74,
+    "counties_income_cv_gt_15pct": 0,
+    "counties_income_cv_gt_30pct": 0,
+    "population_min": 3605,
+    "population_max": 5182090,
+    "population_total": 12694798,
+    "income_min": 42463,
+    "income_max": 112096,
+    "negative_values": 0
+  },
+  "consistency": {
+    "all_state_17": true,
+    "geoid_5_digits": true,
+    "duplicate_geoids": 0,
+    "names_end_with_county_illinois": 102,
+    "value_dtype_from_api": "string (JSON text) - must be cast to numeric"
+  },
+  "timeliness": {
+    "survey_period": "2020-2024 (5-year pooled estimate; midpoint ~2022)",
+    "income_dollars": "inflation-adjusted to 2024 dollars"
+  }
+}

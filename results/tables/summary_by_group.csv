@@ -1,0 +1,7 @@
+grouping,group,counties,restaurants,population,median_mcd_per_100k,pooled_mcd_per_100k
+urban_rural,rural,59,69,1173130,5.99,5.88
+urban_rural,urban,43,583,11521668,6.055,5.06
+income_quartile,Q1 (lowest),26,38,581202,6.189,6.54
+income_quartile,Q2,25,77,1275012,6.123,6.04
+income_quartile,Q3,25,69,1176912,5.627,5.86
+income_quartile,Q4 (highest),26,468,9661672,5.618,4.84

@@ -1,0 +1,13 @@
+# Python 3.11 or newer. Install with:  pip install -r requirements.txt
+# After installing, record exact versions with:  pip freeze > requirements-lock.txt
+pandas>=2.2,<3.1
+numpy>=1.26
+requests>=2.31
+openpyxl>=3.1          # reads the USDA .xlsx
+geopandas>=1.0         # spatial join of restaurants to counties
+shapely>=2.0
+pyogrio>=0.7           # geopandas file I/O
+pyproj>=3.6
+scipy>=1.11            # Spearman correlations
+matplotlib>=3.9
+snakemake>=8.0         # workflow orchestrator (run_all.sh works without it)

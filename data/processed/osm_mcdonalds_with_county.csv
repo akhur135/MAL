@@ -1,0 +1,653 @@
+osm_uid,osm_type,osm_id,name,name_original,lat,lon,addr_housenumber,addr_street,addr_city,addr_state,addr_postcode,brand_wikidata,amenity,drive_through,osm_last_edit,n_merged,tagging_note,county_fips,county_name_tiger
+node/10005620326,node,10005620326,McDonald's,McDonald's,38.6132,-90.0458126,1,Rauckman Drive,Caseyville,IL,62232.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17163,St. Clair
+node/10624425532,node,10624425532,McDonald's,McDonald's,39.8013831,-89.6047744,3208,Clear Lake Avenue,Springfield,IL,62702.0,Q38076,fast_food,yes,2025-09-25 16:13:44+00:00,1,,17167,Sangamon
+node/10978267252,node,10978267252,McDonald's,McDonald's,41.9740656,-87.8894689,5,Arrivals,Chicago,IL,60666.0,Q38076,fast_food,no,2024-05-09 12:00:03+00:00,1,,17031,Cook
+node/11071533348,node,11071533348,McDonald's,McDonald's,41.4275082,-87.7569956,6002,West Monee Manhattan Road,Monee,IL,60449.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17197,Will
+node/11603312840,node,11603312840,McDonald's,McDonald's,42.233931,-88.834575,,,Belvidere,IL,61008.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17007,Boone
+node/11769053450,node,11769053450,McDonald's,McDonald's,40.1780003,-88.2403287,4910,Market Street,Champaign,IL,61822.0,Q38076,fast_food,yes,2026-01-08 19:04:59+00:00,1,,17019,Champaign
+node/11769878542,node,11769878542,McDonald's,McDonald's,42.2531693,-87.901853,I-94,Lake Forest Oasis,Mettawa,IL,60045.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17097,Lake
+node/11881988439,node,11881988439,McDonald's,McDonald's,40.3122042,-89.1672448,400,Main Street,,IL,61754.0,Q38076,fast_food,yes,2024-10-27 20:51:26+00:00,1,,17113,McLean
+node/11959781043,node,11959781043,McDonald's,McDonald's,41.430546,-87.9937134,,,,IL,60442.0,Q38076,fast_food,yes,2024-06-06 07:42:37+00:00,1,,17197,Will
+node/11959781545,node,11959781545,McDonald's,McDonald's,41.578181,-87.792845,,,,IL,60477.0,Q38076,fast_food,yes,2024-06-06 07:40:40+00:00,1,,17031,Cook
+node/12103785330,node,12103785330,McDonald's,McDonald's,38.6793085,-88.4903408,200,Given Drive,,IL,62839.0,Q38076,fast_food,yes,2024-08-11 06:14:50+00:00,1,,17025,Clay
+node/12108645399,node,12108645399,McDonald's,McDonald's,38.1388945,-89.7030807,,,,IL,62286.0,Q38076,fast_food,yes,2024-10-27 18:36:50+00:00,1,,17157,Randolph
+node/12255900706,node,12255900706,McDonald's,McDonald's,41.6621908,-88.5027967,12750,Route 34,Plano,IL,60545.0,Q38076,fast_food,yes,2025-04-04 20:40:39+00:00,1,,17093,Kendall
+node/12282690624,node,12282690624,McDonald's,McDonald's,40.7780189,-87.7414973,504,West Walnut Street,,IL,60970.0,Q38076,fast_food,yes,2024-10-23 21:01:43+00:00,1,,17075,Iroquois
+node/12282693758,node,12282693758,McDonald's,McDonald's,40.4593633,-87.6867249,824,South Dixie Highway,,IL,60942.0,Q38076,fast_food,yes,2024-10-23 21:01:08+00:00,1,,17183,Vermilion
+node/12282693781,node,12282693781,McDonald's,McDonald's,42.1612542,-88.1394284,227,West Northwest Highway,,IL,60010.0,Q38076,fast_food,yes,2024-10-23 21:09:16+00:00,1,,17097,Lake
+node/12292179405,node,12292179405,McDonald's,McDonald's,39.6042,-87.683789,,,,IL,61944.0,Q38076,fast_food,yes,2024-10-30 11:26:14+00:00,1,,17045,Edgar
+node/12292242947,node,12292242947,McDonald's,McDonald's,38.0798663,-89.3822683,10,West Water Street,,IL,62274.0,Q38076,fast_food,yes,2024-10-27 18:37:31+00:00,1,,17145,Perry
+node/12292245321,node,12292245321,McDonald's,McDonald's,37.4600172,-89.2346068,510,East Vienna Street,,IL,62906.0,Q38076,fast_food,yes,2024-10-27 18:38:46+00:00,1,,17181,Union
+node/12292255680,node,12292255680,McDonald's,McDonald's,38.5028622,-89.9821403,125,South Belt East,,IL,62220.0,Q38076,fast_food,yes,2024-10-27 18:32:35+00:00,1,,17163,St. Clair
+node/12292256503,node,12292256503,McDonald's,McDonald's,40.004639,-90.438306,1,Plaza Street,,IL,62618.0,Q38076,fast_food,yes,2024-10-27 18:26:33+00:00,1,,17017,Cass
+node/12292260274,node,12292260274,McDonald's,McDonald's,38.4372343,-89.9151859,708,,,IL,62243.0,Q38076,fast_food,yes,2024-10-27 18:33:14+00:00,1,,17163,St. Clair
+node/12292262084,node,12292262084,McDonald's,McDonald's,38.3542327,-90.1537955,176,,,IL,62298.0,Q38076,fast_food,yes,2024-10-27 18:34:13+00:00,1,,17133,Monroe
+node/12292266130,node,12292266130,McDonald's,McDonald's,37.7659615,-89.3258033,105,,,IL,62966.0,Q38076,fast_food,yes,2024-10-27 18:38:09+00:00,1,,17077,Jackson
+node/12292448591,node,12292448591,McDonald's,McDonald's,39.1540794,-89.4937593,728,,,IL,62049.0,Q38076,fast_food,yes,2024-10-27 20:50:33+00:00,1,,17135,Montgomery
+node/12292448593,node,12292448593,McDonald's,McDonald's,39.9793039,-87.63662,,,,IL,61846.0,Q38076,fast_food,yes,2024-10-27 20:52:49+00:00,1,,17183,Vermilion
+node/12292452960,node,12292452960,McDonald's,McDonald's,38.3793645,-88.3771372,1212,West Main Street,,IL,62837.0,Q38076,fast_food,yes,2024-10-27 20:47:23+00:00,1,,17191,Wayne
+node/12292457030,node,12292457030,McDonald's,McDonald's,38.6200109,-89.5266317,,,,IL,62230.0,Q38076,fast_food,yes,2024-10-27 20:48:21+00:00,1,,17027,Clinton
+node/12292458573,node,12292458573,McDonald's,McDonald's,38.7269787,-87.7002915,2608,West Haven Road,,IL,62439.0,Q38076,fast_food,yes,2024-10-27 20:45:23+00:00,1,,17101,Lawrence
+node/12292458672,node,12292458672,McDonald's,McDonald's,38.7541377,-89.6807138,105,,,IL,62249.0,Q38076,fast_food,yes,2024-10-27 20:48:55+00:00,1,,17119,Madison
+node/12292481002,node,12292481002,McDonald's,McDonald's,39.0915752,-88.5485814,2911,South Banker Street,Effingham,IL,62401.0,Q38076,fast_food,yes,2025-04-02 08:19:59+00:00,1,,17049,Effingham
+node/12398887056,node,12398887056,McDonald's,McDonald's,40.5464241,-89.602388,,,,,,Q38076,fast_food,,2024-12-06 01:10:37+00:00,1,,17179,Tazewell
+node/12403377096,node,12403377096,McDonald's,McDonald's,40.56562,-89.6366489,,,,,,Q38076,fast_food,,2024-12-07 21:33:07+00:00,1,,17179,Tazewell
+node/12729727295,node,12729727295,McDonald's,McDonald's,41.6178452,-88.4476535,2007,South Bridge Street,Yorkville,IL,60560.0,Q38076,fast_food,yes,2026-06-24 20:53:53+00:00,1,,17093,Kendall
+node/12729727984,node,12729727984,McDonald's,McDonald's,41.7187206,-88.3201774,339,Douglas Road,Oswego,IL,60543.0,Q38076,fast_food,yes,2025-04-04 20:46:15+00:00,2,,17093,Kendall
+node/13115079936,node,13115079936,McDonald's,McDonald's,41.9296612,-87.8467795,8800,West Grand Avenue,River Grove,IL,60171.0,Q38076,fast_food,yes,2025-09-02 17:59:29+00:00,1,,17031,Cook
+node/13147459188,node,13147459188,McDonald's,McDonald's,41.750598,-88.016958,,,,,,Q38076,fast_food,,2025-09-16 14:46:08+00:00,1,,17043,DuPage
+node/1324507583,node,1324507583,McDonald's,McDonald's,42.0196599,-88.2690243,816,Saint Charles Road,Elgin,IL,60120.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17089,Kane
+node/1329109565,node,1329109565,McDonald's,McDonald's,42.4241069,-90.4431179,,,,,,Q38076,fast_food,,2024-02-06 23:23:38+00:00,1,,17085,Jo Daviess
+node/13461193141,node,13461193141,McDonald's,McDonald's,38.8900464,-89.8347825,9191,State Route 140,Hamel,IL,62046.0,Q38076,fast_food,yes,2026-01-16 20:46:25+00:00,1,,17119,Madison
+node/13690181833,node,13690181833,McDonald's,McDonald's,40.0479901,-88.2531526,509,South Dunlap Avenue,Savoy,IL,61874.0,Q38076,fast_food,yes,2026-03-30 03:26:48+00:00,1,,17019,Champaign
+node/1481424399,node,1481424399,McDonald's,McDonald's,40.6764394,-89.5350833,2601,East Washington,East Peoria,IL,61611.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17179,Tazewell
+node/1593745874,node,1593745874,McDonald's,McDonald's,41.9373307,-88.3992983,40W255,IL Route 64,Campton Hills,IL,60175.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17089,Kane
+node/1630387514,node,1630387514,McDonald's,McDonald's,41.8795079,-87.6336,186,West Adams Street,Chicago,IL,60603.0,Q38076,fast_food,no,2025-03-27 17:22:38+00:00,1,,17031,Cook
+node/1648217470,node,1648217470,McDonald's,McDonald's,41.8915774,-87.6087562,600,East Grand Avenue,Chicago,IL,60611.0,Q38076,fast_food,no,2025-04-11 18:33:08+00:00,1,,17031,Cook
+node/1708722329,node,1708722329,McDonald's,McDonald's,42.4151573,-88.0715261,431,Grand Avenue,,IL,60046.0,Q38076,fast_food,yes,2024-10-23 21:10:18+00:00,1,,17097,Lake
+node/1935650201,node,1935650201,McDonald's,McDonald's,41.8480391,-89.4849794,,,,,,Q38076,fast_food,,2024-02-06 23:23:38+00:00,1,,17103,Lee
+node/2032855152,node,2032855152,McDonald's,McDonald's,39.6071441,-90.8135266,,,,,,Q38076,fast_food,,2024-02-06 23:23:38+00:00,1,,17149,Pike
+node/2080745966,node,2080745966,McDonald's,McDonald's,38.5697913,-89.9297312,1153,North Greenmount Road,O'Fallon,IL,62269.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17163,St. Clair
+node/2091337786,node,2091337786,McDonald's,McDonald's,41.3703226,-89.0091054,3020,East 8th Road,Utica,IL,61373.0,Q38076,fast_food,yes,2024-12-30 09:07:35+00:00,1,,17099,LaSalle
+node/2265491360,node,2265491360,McDonald's,McDonald's,42.4899004,-88.988987,15766,Manchester Road,South Beloit,IL,61080.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17201,Winnebago
+node/2322347685,node,2322347685,McDonald's,McDonald's,41.9771432,-87.8984834,3,CONC,Chicago,IL,60666.0,Q38076,fast_food,no,2026-06-15 01:50:14+00:00,1,,17031,Cook
+node/2322673339,node,2322673339,McDonald's,McDonald's,41.9740141,-87.9005386,3,CONC,Chicago,IL,60666.0,Q38076,fast_food,,2025-01-06 11:40:02+00:00,1,,17031,Cook
+node/2322673340,node,2322673340,McDonald's,McDonald's,41.974859,-87.8985677,3,CONC,Chicago,IL,60666.0,Q38076,fast_food,,2026-06-15 01:50:14+00:00,1,,17031,Cook
+node/2322673341,node,2322673341,McDonald's,McDonald's,41.9749999,-87.9001275,3,CONC H/K Food Court,Chicago,IL,60666.0,Q38076,fast_food,no,2026-06-15 01:50:14+00:00,1,,17031,Cook
+node/2348756411,node,2348756411,McDonald's,McDonald's,39.149087,-88.531029,2500,North 3rd Street,Effingham,IL,62401.0,Q38076,fast_food,yes,2026-01-11 20:31:42+00:00,1,,17049,Effingham
+node/2360490443,node,2360490443,McDonald's,McDonald's,41.877995,-87.6316719,111,West Jackson Boulevard,Chicago,IL,60604.0,Q38076,fast_food,no,2025-04-05 14:03:05+00:00,1,,17031,Cook
+node/2360490446,node,2360490446,McDonald's,McDonald's,41.8389807,-87.6467948,3020,South Halsted Street,Chicago,IL,60608.0,Q38076,fast_food,no,2024-05-09 12:00:03+00:00,1,,17031,Cook
+node/2366191731,node,2366191731,McDonald's,McDonald's,40.9605799,-90.3837524,1072,North Henderson Street,Galesburg,IL,61401.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17095,Knox
+node/2374500677,node,2374500677,McDonald's,McDonald's,40.947087,-90.352341,1158,East Main Street,Galesburg,IL,61401.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17095,Knox
+node/2382882164,node,2382882164,McDonald's,McDonald's,38.155477,-88.911065,202,North Avenue,Ina,IL,62846.0,Q38076,fast_food,yes,2024-04-10 23:32:46+00:00,1,,17081,Jefferson
+node/2393465773,node,2393465773,McDonald's,McDonald's,41.9110184,-87.6345458,1563,North Wells Street,Chicago,IL,60610.0,Q38076,fast_food,no,2025-05-16 21:12:23+00:00,1,,17031,Cook
+node/2394591150,node,2394591150,McDonald's,McDonald's,42.4297542,-87.9374438,39105,US Highway 41,Wadsworth,IL,60083.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17097,Lake
+node/2401083388,node,2401083388,McDonald's,McDonald's,42.0900627,-90.1334082,,,,,,Q38076,fast_food,,2024-02-06 23:23:38+00:00,1,,17015,Carroll
+node/2463442656,node,2463442656,McDonald's,McDonald's,39.907616,-88.8956097,4030,East Boyd Road,Decatur,IL,62521.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17115,Macon
+node/2702237027,node,2702237027,McDonald's,McDonald's,41.5790393,-87.5993105,I-294,Lincoln Oasis,South Holland,IL,60473.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17031,Cook
+node/272580667,node,272580667,McDonald's,McDonald's,41.3965637,-89.4676505,2139,North Main Street,Princeton,IL,61356.0,Q38076,fast_food,yes,2024-12-30 09:07:35+00:00,1,,17011,Bureau
+node/2777251627,node,2777251627,McDonald's,McDonald's,41.2961031,-89.0785106,,,,,,Q38076,fast_food,yes,2024-02-06 23:23:38+00:00,1,,17099,LaSalle
+node/2800203993,node,2800203993,McDonald's,McDonald's,40.1747424,-87.6296422,3195,North Vermilion Street,Danville,IL,61832.0,Q38076,fast_food,yes,2025-04-10 07:57:13+00:00,1,,17183,Vermilion
+node/2869352247,node,2869352247,McDonald's,McDonald's,37.4149252,-88.8740044,,,,,,Q38076,fast_food,,2026-06-04 23:49:33+00:00,1,,17087,Johnson
+node/3014815404,node,3014815404,McDonald's,McDonald's,41.6356749,-88.2232577,13546,State Route 30,Plainfield,IL,60544.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17197,Will
+node/307455970,node,307455970,McDonald's,McDonald's,41.8839093,-87.6259628,119,North Wabash Avenue,Chicago,IL,60602.0,Q38076,fast_food,no,2024-05-09 12:00:03+00:00,1,,17031,Cook
+node/3272450201,node,3272450201,McDonald's,McDonald's,42.1148047,-87.7417568,858,Green Bay Road,Winnetka,IL,60093.0,Q38076,fast_food,,2025-02-18 20:59:11+00:00,1,,17031,Cook
+node/3307125663,node,3307125663,McDonald's,McDonald's,42.012176,-89.3323465,,,,,,Q38076,fast_food,yes,2024-02-06 23:23:38+00:00,1,,17141,Ogle
+node/3579375583,node,3579375583,McDonald's,McDonald's,41.3690041,-89.1270304,5251,Trompeter Road,Peru,IL,61354.0,Q38076,fast_food,yes,2024-04-11 19:28:33+00:00,1,,17099,LaSalle
+node/3766589041,node,3766589041,McDonald's,McDonald's,38.7309721,-88.0793587,701,East Main Street,Olney,IL,62450.0,Q38076,fast_food,yes,2024-02-06 23:23:40+00:00,1,,17159,Richland
+node/4047209065,node,4047209065,McDonald's,McDonald's,38.5911282,-89.9843421,6300,North Illinois Street,Fairview Heights,IL,62208.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17163,St. Clair
+node/4049484309,node,4049484309,McDonald's,McDonald's,38.5421161,-89.9843408,2605,North Illinois Street,Swansea,IL,62226.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17163,St. Clair
+node/4054850312,node,4054850312,McDonald's,McDonald's,39.7144501,-89.6403345,861,Toronto Road,Springfield,IL,62703.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17167,Sangamon
+node/4060471871,node,4060471871,McDonald's,McDonald's,39.7612149,-89.6078486,3151,South Dirksen Parkway,Springfield,IL,62703.0,Q38076,fast_food,yes,2026-06-05 16:19:39+00:00,1,,17167,Sangamon
+node/4072166505,node,4072166505,McDonald's,McDonald's,39.7961958,-89.69418,2303,West Monroe Street,Springfield,IL,62704.0,Q38076,fast_food,yes,2026-06-09 22:03:01+00:00,1,,17167,Sangamon
+node/4084141020,node,4084141020,McDonald's,McDonald's,40.1272223,-87.6112608,101,North Bowman Avenue,Danville,IL,61832.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17183,Vermilion
+node/4084166350,node,4084166350,McDonald's,McDonald's,40.1193802,-87.6366971,,,,,,Q38076,fast_food,yes,2024-02-06 23:23:40+00:00,1,,17183,Vermilion
+node/4301553699,node,4301553699,McDonald's,McDonald's,40.1104563,-88.229815,616,East Green Street,Champaign,IL,61820.0,Q38076,fast_food,no,2026-03-02 08:30:28+00:00,1,,17019,Champaign
+node/4313080925,node,4313080925,McDonald's,McDonald's,40.5302343,-88.9965555,1607,North Main Street,Normal,IL,61761.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17113,McLean
+node/4374789492,node,4374789492,McDonald's,McDonald's,39.9611307,-89.5622746,991,Ann Rutledge Drive,Williamsville,IL,62693.0,Q38076,fast_food,yes,2025-04-06 07:34:34+00:00,1,,17167,Sangamon
+node/4440096910,node,4440096910,McDonald's,McDonald's,38.7877385,-89.9803505,6091,Center Grove Road,Edwardsville,IL,62025.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17119,Madison
+node/4583089235,node,4583089235,McDonald's,McDonald's,41.977595,-87.9106354,1,CONC,Chicago,IL,60666.0,Q38076,fast_food,,2026-06-14 20:21:10+00:00,1,,17031,Cook
+node/461515697,node,461515697,McDonald's,McDonald's,41.9008566,-88.7389579,2700,Crego Road,Dekalb,IL,60115.0,Q38076,fast_food,,2024-05-09 12:00:03+00:00,1,,17037,DeKalb
+node/4752123983,node,4752123983,McDonald's,McDonald's,41.8940272,-87.6176392,645,North McClurg Court,Chicago,IL,60611.0,Q38076,fast_food,no,2024-05-09 12:00:03+00:00,1,,17031,Cook
+node/480529852,node,480529852,McDonald's,McDonald's,42.388079,-87.8548953,1939,North Lewis Avenue,Waukegan,IL,60085.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17097,Lake
+node/4826326221,node,4826326221,McDonald's,McDonald's,41.9023826,-88.0813346,215,East North Avenue,Glendale Heights,IL,60139.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17043,DuPage
+node/4844969371,node,4844969371,McDonald's,McDonald's,42.1258646,-89.2555557,,East Blackhawk Drive,,,,Q38076,fast_food,yes,2026-06-28 22:16:36+00:00,1,,17141,Ogle
+node/4937237607,node,4937237607,McDonald's,McDonald's,39.5529653,-89.2987825,401,West Spresser Street,Taylorville,IL,62568.0,Q38076,fast_food,yes,2024-02-06 23:23:40+00:00,1,,17021,Christian
+node/4954188656,node,4954188656,McDonald's,McDonald's,40.6264233,-89.6184289,1124,Wesley Road,North Pekin,IL,61554.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17179,Tazewell
+node/4995555980,node,4995555980,McDonald's,McDonald's,42.2482842,-88.3472034,7617,Route 14,Crystal Lake,IL,60012.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17111,McHenry
+node/5360072618,node,5360072618,McDonald's,McDonald's,37.8184507,-88.9330384,,,,,,Q38076,fast_food,yes,2024-02-06 23:23:40+00:00,1,,17199,Williamson
+node/5457402330,node,5457402330,McDonald's,McDonald's,41.2874351,-88.2858589,2,South Broadway Street,Coal City,IL,60416.0,Q38076,fast_food,yes,2024-02-06 23:23:40+00:00,1,,17063,Grundy
+node/5834769443,node,5834769443,McDonald's,McDonald's,41.9474912,-87.6569791,3610,North Clark Street,Chicago,IL,60613.0,Q38076,fast_food,no,2024-05-09 12:00:03+00:00,1,,17031,Cook
+node/6071648415,node,6071648415,McDonald's,McDonald's,41.9801018,-87.90667,1,CONC,Chicago,IL,60666.0,Q38076,fast_food,,2024-06-15 19:25:27+00:00,1,,17031,Cook
+node/6167678358,node,6167678358,McDonald's,McDonald's,42.1132325,-88.2583677,1660,South Kennedy Drive,Carpentersville,IL,60110.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17089,Kane
+node/6219040408,node,6219040408,McDonald's,McDonald's,39.6784187,-89.7040303,490,North Main Street,Chatham,IL,62629.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17167,Sangamon
+node/6316714296,node,6316714296,McDonald's,McDonald's,39.7570663,-89.7330373,4301,Wabash Avenue,Springfield,IL,62711.0,Q38076,fast_food,yes,2024-10-22 19:22:43+00:00,1,,17167,Sangamon
+node/6419715452,node,6419715452,McDonald's,McDonald's,41.975241,-87.9062381,,,Chicago,IL,60666.0,Q38076,fast_food,no,2024-12-21 21:09:11+00:00,1,,17031,Cook
+node/6491610411,node,6491610411,McDonald's,McDonald's,39.7874228,-89.6490119,501,South Grand Avenue East,Springfield,IL,62703.0,Q38076,fast_food,yes,2026-06-09 18:05:54+00:00,1,,17167,Sangamon
+node/6504837887,node,6504837887,McDonald's,McDonald's,39.8300496,-89.6042717,2100,North Dirksen Parkway,Springfield,IL,62702.0,Q38076,fast_food,yes,2026-06-09 17:33:10+00:00,1,,17167,Sangamon
+node/6680456681,node,6680456681,McDonald's,McDonald's,41.7715189,-88.0422686,2401,63rd Street,Woodridge,IL,60517.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17043,DuPage
+node/6722184575,node,6722184575,McDonald's,McDonald's,39.7650804,-89.6874995,3035,Chatham Road,Springfield,IL,62704.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17167,Sangamon
+node/6781788114,node,6781788114,McDonald's,McDonald's,38.5401897,-90.023373,4422,West Main Street,Belleville,IL,62226.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17163,St. Clair
+node/7022199334,node,7022199334,McDonald's,McDonald's,39.8026459,-89.6610367,522,West Jefferson Street,Springfield,IL,62702.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17167,Sangamon
+node/7023126646,node,7023126646,McDonald's,McDonald's,40.9249587,-90.6491965,1134,North Main Street,Monmouth,IL,61462.0,Q38076,fast_food,yes,2024-02-06 23:23:40+00:00,1,,17187,Warren
+node/7023138480,node,7023138480,McDonald's,McDonald's,41.3558462,-88.8400599,,,,,,Q38076,fast_food,,2024-02-06 23:23:40+00:00,1,,17099,LaSalle
+node/7023141431,node,7023141431,McDonald's,McDonald's,39.9359395,-91.3947219,1301,Broadway Street,Quincy,IL,62301.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17001,Adams
+node/7023145675,node,7023145675,McDonald's,McDonald's,39.9832294,-90.7572922,418,East Main Street,Mount Sterling,IL,62353.0,Q38076,fast_food,,2024-02-06 23:23:40+00:00,1,,17009,Brown
+node/7023148328,node,7023148328,McDonald's,McDonald's,38.7318775,-89.9060798,103,McDonald South Lane,Troy,IL,62294.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17119,Madison
+node/7023152420,node,7023152420,McDonald's,McDonald's,38.3856874,-89.3717703,,,,,,Q38076,fast_food,yes,2024-02-06 23:23:40+00:00,1,,17189,Washington
+node/7023153777,node,7023153777,McDonald's,McDonald's,41.5478002,-89.129878,,,,,,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17099,LaSalle
+node/7023168971,node,7023168971,McDonald's,McDonald's,39.2794644,-89.8909333,,,,,,Q38076,fast_food,,2024-02-06 23:23:40+00:00,1,,17117,Macoupin
+node/7023172535,node,7023172535,McDonald's,McDonald's,38.4157125,-87.7635232,,,,,,Q38076,fast_food,,2024-02-06 23:23:40+00:00,1,,17185,Wabash
+node/7023176596,node,7023176596,McDonald's,McDonald's,38.5348489,-89.7209108,,,,,,Q38076,fast_food,yes,2026-03-02 07:19:59+00:00,1,,17163,St. Clair
+node/7023182854,node,7023182854,McDonald's,McDonald's,39.8749665,-88.926132,,,,,,Q38076,fast_food,,2024-05-09 12:00:03+00:00,1,,17115,Macon
+node/7065422019,node,7065422019,McDonald's,McDonald's,39.7513677,-89.707431,3420,Freedom Drive,Springfield,IL,62704.0,Q38076,fast_food,yes,2026-06-04 17:53:10+00:00,1,,17167,Sangamon
+node/7141632809,node,7141632809,McDonald's,McDonald's,42.2477766,-88.2875182,230,North Route 31,Crystal Lake,IL,60014.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17111,McHenry
+node/7141649054,node,7141649054,McDonald's,McDonald's,39.8458868,-88.9699446,962,West Eldorado Street,Decatur,IL,62522.0,Q38076,fast_food,yes,2024-09-23 19:33:11+00:00,1,,17115,Macon
+node/7173833488,node,7173833488,McDonald's,McDonald's,39.756185,-89.6457702,3250,South 6th Street,Springfield,IL,62703.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17167,Sangamon
+node/7262648968,node,7262648968,McDonald's,McDonald's,42.1041534,-87.8472368,2741,Pfingsten Road,Glenview,IL,60026.0,Q38076,fast_food,no,2024-05-09 12:00:03+00:00,1,,17031,Cook
+node/7456841281,node,7456841281,McDonald's,McDonald's,41.9544333,-87.8093749,4104,North Harlem Avenue,Norridge,IL,60706.0,Q38076,fast_food,no,2024-07-23 16:16:27+00:00,1,,17031,Cook
+node/761868507,node,761868507,McDonald's,McDonald's,39.0475593,-88.7485861,,,,,,Q38076,fast_food,,2024-02-06 23:23:38+00:00,1,,17049,Effingham
+node/7874385734,node,7874385734,McDonald's,McDonald's,41.8858707,-87.6318911,203,North LaSalle Street,Chicago,IL,60601.0,Q38076,fast_food,no,2026-03-18 02:19:35+00:00,1,,17031,Cook
+node/8048743746,node,8048743746,McDonald's,McDonald's,39.6005206,-88.6080266,,,,,,Q38076,fast_food,,2024-02-06 23:24:57+00:00,1,,17139,Moultrie
+node/8244336720,node,8244336720,McDonald's,McDonald's,41.469413,-87.5793444,1350,East Steger Road,Crete,IL,60417.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17197,Will
+node/8329153009,node,8329153009,McDonald's,McDonald's,41.7374931,-88.2517861,2595,West Ogden Avenue,Aurora,IL,60504.0,Q38076,fast_food,yes,2024-05-13 16:34:39+00:00,1,,17043,DuPage
+node/8379930804,node,8379930804,McDonald's,McDonald's,41.8839957,-87.6536578,1035,West Randolph Street,Chicago,IL,60607.0,Q38076,fast_food,no,2024-09-10 00:18:49+00:00,1,,17031,Cook
+node/8396542109,node,8396542109,McDonald's,McDonald's,40.9192626,-90.2966439,743,Knox Highway 10,Knoxville,IL,61448.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17095,Knox
+node/8747693516,node,8747693516,McDonald's,McDonald's,41.8126313,-88.2786193,1505,Butterfield Road,Aurora,IL,60504.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17089,Kane
+node/9127686148,node,9127686148,McDonald's,McDonald's,41.6861756,-88.380928,3417,Orchard Way;Orchard Road,Oswego,IL,60543.0,Q38076,fast_food,yes,2026-07-19 19:11:32+00:00,1,,17093,Kendall
+node/9128470488,node,9128470488,McDonald's,McDonald's,41.6470455,-88.5971036,120,Indian Springs Drive,Sandwich,IL,60548.0,Q38076,fast_food,yes,2025-11-09 17:55:15+00:00,1,,17093,Kendall
+node/9217177389,node,9217177389,McDonald's,McDonald's,40.790852,-89.3731279,901,West Mount Vernon Street,Metamora,IL,61548.0,Q38076,fast_food,yes,2024-02-06 23:24:57+00:00,1,,17203,Woodford
+node/9386380732,node,9386380732,McDonald's,McDonald's,40.7158817,-89.507705,,,,,,Q38076,fast_food,yes,2024-12-22 06:37:11+00:00,1,,17179,Tazewell
+node/9428866692,node,9428866692,McDonald's,McDonald's,39.6806201,-88.2977643,550,East Springfield Road,Arcola,IL,61910.0,Q38076,fast_food,yes,2024-04-10 23:32:46+00:00,1,,17041,Douglas
+node/9458923826,node,9458923826,McDonald's,McDonald's,39.390494,-89.0804379,,,,,,Q38076,fast_food,,2024-02-06 23:24:57+00:00,1,,17021,Christian
+relation/9489186,relation,9489186,McDonald's,McDonald's,42.23951435,-87.94508305,700,North Milwaukee Avenue,Vernon Hills,IL,60061.0,Q38076,fast_food,yes,2026-05-11 17:01:54+00:00,1,,17097,Lake
+way/1011041319,way,1011041319,McDonald's,McDonald's,41.7722395,-89.6887513,,,,,,Q38076,fast_food,yes,2024-07-25 21:11:36+00:00,1,,17195,Whiteside
+way/1012838942,way,1012838942,McDonald's,McDonald's,41.80114735,-89.667084,,,,,,Q38076,fast_food,yes,2024-02-06 23:25:25+00:00,1,,17195,Whiteside
+way/1020190452,way,1020190452,McDonald's,McDonald's,41.483865,-87.733544,4855,Sauk Trail,Richton Park,IL,60471.0,Q38076,fast_food,yes,2025-02-21 19:28:26+00:00,1,,17031,Cook
+way/1025728326,way,1025728326,McDonald's,McDonald's,40.1226583,-87.77887340000001,499,North Oakwood Road,Oakwood,IL,61858.0,Q38076,fast_food,yes,2025-12-27 18:01:09+00:00,1,,17183,Vermilion
+way/1027575264,way,1027575264,McDonald's,McDonald's,42.06115655,-88.3149838,1165,North McLean Boulevard,Elgin,IL,60123.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17089,Kane
+way/1029183810,way,1029183810,McDonald's,McDonald's,41.71907145,-87.80997529999999,7620,West 95th Street,Hickory Hills,IL,60457.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17031,Cook
+way/102923686,way,102923686,McDonald's,McDonald's,42.3182873,-88.98040675,6995,East Riverside Boulevard,Rockford,IL,61114.0,Q38076,fast_food,yes,2025-01-18 04:33:24+00:00,1,,17201,Winnebago
+way/102923701,way,102923701,McDonald's,McDonald's,41.932613700000005,-89.0349145,,,,,,Q38076,fast_food,yes,2024-02-06 23:25:00+00:00,1,,17141,Ogle
+way/1043340900,way,1043340900,McDonald's,McDonald's,38.86487175,-90.07755255,1156,Vaughn Road,Wood River,IL,62095.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17119,Madison
+way/1055483191,way,1055483191,McDonald's,McDonald's,41.78647515,-87.86807525,5701,South La Grange Road,Countryside,IL,60525.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17031,Cook
+way/105742917,way,105742917,McDonald's,McDonald's,38.59302905,-89.95522975,1610,West Highway 50,O'Fallon,IL,62269.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17163,St. Clair
+way/1068668014,way,1068668014,McDonald's,McDonald's,41.8201491,-87.81840084999999,7850,Ogden Avenue,Lyons,IL,60534.0,Q38076,fast_food,yes,2026-04-29 18:42:53+00:00,1,,17031,Cook
+way/1069832812,way,1069832812,McDonald's,McDonald's,41.72287985,-87.94308219999999,9101,South Kingery Highway,Burr Ridge,IL,60527.0,Q38076,fast_food,yes,2025-05-14 19:03:42+00:00,1,,17043,DuPage
+way/1070772709,way,1070772709,McDonald's,McDonald's,42.31886815,-87.83534739999999,2601,Paul Jones Street,Great Lakes,IL,60088.0,Q38076,fast_food,yes,2024-06-07 04:10:01+00:00,1,,17097,Lake
+way/1099453922,way,1099453922,McDonald's,McDonald's,42.3577122,-89.99940665,601,East North Avenue,Stockton,IL,61085.0,Q38076,fast_food,,2024-02-06 23:25:25+00:00,1,,17085,Jo Daviess
+way/1100711058,way,1100711058,McDonald's,McDonald's,42.000484,-88.04533054999999,947,Meacham Road,Elk Grove Village,IL,60007.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17031,Cook
+way/110460828,way,110460828,McDonald's,McDonald's,42.0786232,-88.01929225,3140,Kirchoff Road,Rolling Meadows,IL,60008.0,Q38076,fast_food,yes,2026-03-04 19:53:59+00:00,1,,17031,Cook
+way/110750361,way,110750361,McDonald's,McDonald's,42.094829950000005,-88.00603615,1570,East Northwest Highway,Palatine,IL,60074.0,Q38076,fast_food,yes,2024-03-26 16:05:57+00:00,1,,17031,Cook
+way/1108000223,way,1108000223,McDonald's,McDonald's,40.34206155,-88.7622843,,,,,,Q38076,fast_food,,2024-02-06 23:25:25+00:00,1,,17113,McLean
+way/1110439012,way,1110439012,McDonald's,McDonald's,41.18803625,-87.85008955,2050,North State Road 50,Bourbonnais,IL,60914.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17091,Kankakee
+way/111559646,way,111559646,McDonald's,McDonald's,41.88694935,-88.2824782,1190,East State Street,Geneva,IL,60134.0,Q38076,fast_food,yes,2024-05-29 19:40:26+00:00,1,,17089,Kane
+way/1135969029,way,1135969029,McDonald's,McDonald's,42.2596873,-89.0540072,2622,Charles Street,Rockford,IL,61108.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17201,Winnebago
+way/114689758,way,114689758,McDonald's,McDonald's,41.9984095,-87.8840015,3067,Mannheim Road,Des Plaines,IL,60018.0,Q38076,fast_food,yes,2026-03-13 17:12:47+00:00,1,,17031,Cook
+way/114823367,way,114823367,McDonald's,McDonald's,41.99043235,-87.86042615,6150,North River Road,Rosemont,IL,60018.0,Q38076,fast_food,yes,2025-07-31 14:20:06+00:00,1,,17031,Cook
+way/1156062562,way,1156062562,McDonald's,McDonald's,40.69735315,-89.98948665,,,,,,Q38076,fast_food,yes,2024-02-06 23:25:25+00:00,1,,17057,Fulton
+way/1157797095,way,1157797095,McDonald's,McDonald's,42.3670522,-88.04314935,,,,IL,,Q38076,fast_food,,2025-11-15 03:49:55+00:00,1,,17097,Lake
+way/1158544142,way,1158544142,McDonald's,McDonald's,42.2975699,-87.9559687,1330,North Milwaukee Avenue,Libertyville,IL,60048.0,Q38076,fast_food,yes,2025-08-25 01:44:29+00:00,1,,17097,Lake
+way/1159402542,way,1159402542,McDonald's,McDonald's,41.6767594,-87.68101440000001,11920,Western Avenue,Blue Island,IL,60406.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17031,Cook
+way/1167109353,way,1167109353,McDonald's,McDonald's,41.5284235,-87.63524215,19767,South Halsted Street,Chicago Heights,IL,60411.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17031,Cook
+way/1173222844,way,1173222844,McDonald's,McDonald's,38.59690065,-89.80830979999999,713,South Madison,Lebanon,IL,62254.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17163,St. Clair
+way/117739210,way,117739210,McDonald's,McDonald's,41.5058096,-87.67620439999999,2400,Lincoln Highway,Olympia Fields,IL,60461.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17031,Cook
+way/117744391,way,117744391,McDonald's,McDonald's,41.50659465,-87.71463865000001,4010,Lincoln Highway,Matteson,IL,60443.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17031,Cook
+way/1179795227,way,1179795227,McDonald's,McDonald's,41.5941433,-88.03809995,1039,East 9th Street,Lockport,IL,60441.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17197,Will
+way/117993542,way,117993542,McDonald's,McDonald's,41.8882908,-87.83346885,11,North 1st Avenue,Maywood,IL,60153.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17031,Cook
+way/1181176118,way,1181176118,McDonald's,McDonald's,42.2153501,-87.81905234999999,894,Sheridan Road,Highwood,IL,60040.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17097,Lake
+way/1193500331,way,1193500331,McDonald's,McDonald's,41.6222061,-87.6751311,14702,Dixie Highway,Harvey,IL,60426.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17031,Cook
+way/1223681773,way,1223681773,McDonald's,McDonald's,42.3699772,-87.881857,3301,West Grand Avenue,Waukegan,IL,60085.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17097,Lake
+way/1227789222,way,1227789222,McDonald's,McDonald's,39.40619375,-88.80548655,,,,,,Q38076,fast_food,,2024-02-06 23:25:25+00:00,1,,17173,Shelby
+way/1229123239,way,1229123239,McDonald's,McDonald's,42.1401434,-87.91116355,188,East Dundee Road,Wheeling,IL,60090.0,Q38076,fast_food,yes,2024-07-31 15:40:58+00:00,1,,17031,Cook
+way/1229729732,way,1229729732,McDonald's,McDonald's,41.66120435,-87.79378585,7100,West 127th Street,Palos Heights,IL,60463.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17031,Cook
+way/1243472378,way,1243472378,McDonald's,McDonald's,41.96061695,-87.94491065,302,Irving Park Road,Bensenville,IL,60106.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17043,DuPage
+way/1243475856,way,1243475856,McDonald's,McDonald's,41.4922679,-87.55685779999999,2707,East Sauk Trail,Sauk Village,IL,60411.0,Q38076,fast_food,yes,2025-08-08 02:30:41+00:00,1,,17031,Cook
+way/1245336397,way,1245336397,McDonald's,McDonald's,42.471251550000005,-88.09410679999999,1150,Main Street,Antioch,IL,60002.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17097,Lake
+way/1248266550,way,1248266550,McDonald's,McDonald's,42.2093178,-89.07343115,4365,11th Steet,Rockford,IL,61109.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17201,Winnebago
+way/1248267058,way,1248267058,McDonald's,McDonald's,42.2698326,-89.00039394999999,314,North Mulford Road,Rockford,IL,61107.0,Q38076,fast_food,yes,2024-05-29 19:18:37+00:00,1,,17201,Winnebago
+way/1248268153,way,1248268153,McDonald's,McDonald's,41.7538542,-88.30089415,711,East New York Street,Aurora,IL,60505.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17089,Kane
+way/1248268374,way,1248268374,McDonald's,McDonald's,41.89403195,-88.10238985000001,355,South Schmale Road,Carol Stream,IL,60188.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17043,DuPage
+way/1251565528,way,1251565528,McDonald's,McDonald's,40.7149204,-89.5943145,2205,North Knoxville Avenue,Peoria,IL,61603.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17143,Peoria
+way/1264327787,way,1264327787,McDonald's,McDonald's,41.4798994,-90.58377255,2950,11th Street,Rock Island,IL,61201.0,Q38076,fast_food,yes,2026-04-25 20:35:41+00:00,1,,17161,Rock Island
+way/1264328438,way,1264328438,McDonald's,McDonald's,41.49067165,-90.4424075,727,Avenue Of The Cities,East Moline,IL,61244.0,Q38076,fast_food,yes,2026-04-23 21:44:19+00:00,1,,17161,Rock Island
+way/1264328846,way,1264328846,McDonald's,McDonald's,41.5572011,-89.1273266,1503,13th Avenue,,IL,61342.0,Q38076,fast_food,yes,2024-03-19 21:00:22+00:00,1,,17099,LaSalle
+way/1264329239,way,1264329239,McDonald's,McDonald's,41.32836465,-89.2119309,800,West Dakota Street,,IL,61362.0,Q38076,fast_food,yes,2026-02-04 11:13:42+00:00,1,,17011,Bureau
+way/1264329353,way,1264329353,McDonald's,McDonald's,41.13803345,-88.83634205,1602,North Bloomington Street,Streator,IL,61364.0,Q38076,fast_food,yes,2024-06-17 22:28:01+00:00,1,,17099,LaSalle
+way/1264329603,way,1264329603,McDonald's,McDonald's,41.59723045,-88.12346894999999,778,Weber Road,Romeoville,IL,60446.0,Q38076,fast_food,yes,2024-05-29 17:39:38+00:00,1,,17197,Will
+way/1265918729,way,1265918729,McDonald's,McDonald's,41.8903628,-87.9698237,350,East Saint Charles Road,Villa Park,IL,60181.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17043,DuPage
+way/1265918922,way,1265918922,McDonald's,McDonald's,41.90568115,-87.99833815,410,North Avenue,Addison,IL,60101.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17043,DuPage
+way/1265919063,way,1265919063,McDonald's,McDonald's,41.927701,-87.9402531,920,North York Street,Elmhurst,IL,60126.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17043,DuPage
+way/1267230589,way,1267230589,McDonald's,McDonald's,42.2819851,-87.87967085,28929,North Waukegan Road,Lake Bluff,IL,60044.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17097,Lake
+way/1267230999,way,1267230999,McDonald's,McDonald's,42.056011,-88.00193765,1775,Algonquin Road,Rolling Meadows,IL,60008.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17031,Cook
+way/1267231284,way,1267231284,McDonald's,McDonald's,42.12236945,-88.0502377,275,West Northwest Highway,Palatine,IL,60067.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17031,Cook
+way/1268196137,way,1268196137,McDonald's,McDonald's,40.3078295,-88.1726386,711,West Champaign Avenue,Rantoul,IL,61866.0,Q38076,fast_food,yes,2026-02-22 18:37:13+00:00,1,,17019,Champaign
+way/1270649469,way,1270649469,McDonald's,McDonald's,41.7268563,-87.7415021,9128,South Cicero Avenue,Oak Lawn,IL,60453.0,Q38076,fast_food,yes,2024-07-03 15:51:12+00:00,1,,17031,Cook
+way/1275422034,way,1275422034,McDonald's,McDonald's,42.04056225,-87.83768115000001,8460,West Dempster Street,Niles,IL,60714.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17031,Cook
+way/128553226,way,128553226,McDonald's,McDonald's,40.29452455,-90.05678695,,,,,,Q38076,fast_food,,2024-02-06 23:25:00+00:00,1,,17125,Mason
+way/1289816581,way,1289816581,McDonald's,McDonald's,41.15964185,-87.88638165,575,Main Street Northwest,,IL,60914.0,Q38076,fast_food,yes,2025-09-24 20:18:34+00:00,1,,17091,Kankakee
+way/1290756253,way,1290756253,McDonald's,McDonald's,38.5447501,-90.05191020000001,7301,Westfield Plaza Drive,,IL,62222.0,Q38076,fast_food,yes,2024-06-09 20:22:42+00:00,1,,17163,St. Clair
+way/1290761244,way,1290761244,McDonald's,McDonald's,42.436522,-88.245143,2451,Route 12,,IL,60081.0,Q38076,fast_food,yes,2024-06-09 20:37:27+00:00,1,,17111,McHenry
+way/129223465,way,129223465,McDonald's,McDonald's,40.1476122,-88.9758293,,,,,,Q38076,fast_food,,2025-01-07 06:02:23+00:00,1,,17039,De Witt
+way/1296534036,way,1296534036,McDonald's,McDonald's,39.0060343,-87.7548043,,,,,,Q38076,fast_food,,2025-10-10 20:34:10+00:00,1,,17033,Crawford
+way/1306449220,way,1306449220,McDonald's,McDonald's,41.600466100000006,-87.597172,801,East 162nd Street,South Holland,IL,60473.0,Q38076,fast_food,yes,2024-08-08 22:09:49+00:00,1,,17031,Cook
+way/1312146063,way,1312146063,McDonald's,McDonald's,41.73437825,-87.79837995,8611,Harlem Avenue,Bridgeview,IL,60455.0,Q38076,fast_food,yes,2025-02-13 20:01:26+00:00,1,,17031,Cook
+way/1319953046,way,1319953046,McDonald's,McDonald's,42.14919075,-87.8002896,200,Skokie Boulevard,Northbrook,IL,60062.0,Q38076,fast_food,yes,2025-01-30 02:12:10+00:00,1,,17031,Cook
+way/1326178601,way,1326178601,McDonald's,McDonald's,41.90488655,-88.03170145,540,West North Avenue,Lombard,IL,60148.0,Q38076,fast_food,yes,2024-10-20 03:22:09+00:00,1,,17043,DuPage
+way/1327357186,way,1327357186,McDonald's,McDonald's,38.7236357,-90.1214846,1515,Johnson Road,Granite City,IL,62040.0,Q38076,fast_food,yes,2024-10-22 21:08:56+00:00,1,,17119,Madison
+way/1328575154,way,1328575154,McDonald's,McDonald's,38.97688465,-89.10114575,820,Veterans Avenue,Vandalia,IL,62471.0,Q38076,fast_food,yes,2025-06-30 09:59:32+00:00,1,,17051,Fayette
+way/1328614710,way,1328614710,McDonald's,McDonald's,38.1989705,-89.99342155,1422,South Main Street,Red Bud,IL,62278.0,Q38076,fast_food,yes,2025-05-29 06:31:22+00:00,1,,17157,Randolph
+way/1328640182,way,1328640182,McDonald's,McDonald's,40.1205854,-88.2774314,501,North Mattis Avenue,Champaign,IL,61821.0,Q38076,fast_food,yes,2025-12-20 02:44:21+00:00,1,,17019,Champaign
+way/1329496113,way,1329496113,McDonald's,McDonald's,41.57156205,-87.5592339,17810,Torrence Avenue,Lansing,IL,60438.0,Q38076,fast_food,yes,2024-10-30 22:55:44+00:00,1,,17031,Cook
+way/1331500007,way,1331500007,McDonald's,McDonald's,41.623126,-87.57386704999999,2004,Sibley Boulevard,Calumet City,IL,60409.0,Q38076,fast_food,yes,2024-11-06 23:54:54+00:00,1,,17031,Cook
+way/1331761640,way,1331761640,McDonald's,McDonald's,41.90672975,-87.90246265,1,East North Avenue,Northlake,IL,60164.0,Q38076,fast_food,yes,2024-11-08 00:11:31+00:00,1,,17031,Cook
+way/1333773791,way,1333773791,McDonald's,McDonald's,41.4804364,-87.6389978,100,West Sauk Trail,South Chicago Heights,IL,60411.0,Q38076,fast_food,yes,2024-11-14 17:14:59+00:00,1,,17031,Cook
+way/1334375471,way,1334375471,McDonald's,McDonald's,41.6011456,-87.690416,3010,West 159th Street,Markham,IL,60428.0,Q38076,fast_food,yes,2024-11-15 23:26:54+00:00,1,,17031,Cook
+way/1334375517,way,1334375517,McDonald's,McDonald's,41.6026059,-87.75321790000001,5441,West 159th Street,Oak Forest,IL,60452.0,Q38076,fast_food,yes,2024-11-15 23:26:54+00:00,1,,17031,Cook
+way/1336078751,way,1336078751,McDonald's,McDonald's,41.7479907,-87.8174035,7920,West 79th Street,Bridgeview,IL,60455.0,Q38076,fast_food,yes,2024-11-20 17:49:25+00:00,1,,17031,Cook
+way/1336896394,way,1336896394,McDonald's,McDonald's,42.1541341,-87.8371161,50,North Waukegan Road,Deerfield,IL,60015.0,Q38076,fast_food,yes,2024-11-22 18:26:18+00:00,1,,17097,Lake
+way/1336896416,way,1336896416,McDonald's,McDonald's,42.1990202,-87.86165545,2587,Waukegan Road,Bannockburn,IL,60015.0,Q38076,fast_food,yes,2026-05-07 16:14:17+00:00,1,,17097,Lake
+way/1339650392,way,1339650392,McDonald's,McDonald's,41.6268909,-87.71732460000001,14601,South Pulaski Road,Midlothian,IL,60445.0,Q38076,fast_food,yes,2024-12-02 21:10:21+00:00,1,,17031,Cook
+way/1339650467,way,1339650467,McDonald's,McDonald's,41.6442026,-87.73853790000001,13630,Cicero Avenue,Crestwood,IL,60445.0,Q38076,fast_food,yes,2024-12-02 21:10:21+00:00,1,,17031,Cook
+way/134608761,way,134608761,McDonald's,McDonald's,41.3241438,-87.81542160000001,701,Oriole Drive,Peotone,IL,60468.0,Q38076,fast_food,yes,2025-07-29 19:37:50+00:00,1,,17197,Will
+way/1348549845,way,1348549845,McDonald's,McDonald's,40.74194215,-88.73263055000001,504,Hoselton Drive,Chenoa,IL,61726.0,Q38076,fast_food,yes,2025-01-04 19:32:14+00:00,1,,17113,McLean
+way/134935397,way,134935397,McDonald's,McDonald's,39.4835621,-88.33681870000001,103,Dettro Drive,Mattoon,IL,61938.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17029,Coles
+way/1356749356,way,1356749356,McDonald's,McDonald's,38.8785366,-89.39005105000001,1600,South Street,Greenville,IL,62246.0,Q38076,fast_food,yes,2025-06-30 09:59:32+00:00,1,,17005,Bond
+way/1364856231,way,1364856231,McDonald's,McDonald's,42.3390993,-88.0040818,1804,East Belvidere Road,Grayslake,IL,60030.0,Q38076,fast_food,yes,2025-03-05 20:23:50+00:00,1,,17097,Lake
+way/1365334135,way,1365334135,McDonald's,McDonald's,42.0729139,-88.06003125000001,775,East Algonquin Road,Schaumburg,IL,60173.0,Q38076,fast_food,yes,2025-03-07 15:51:44+00:00,1,,17031,Cook
+way/137436240,way,137436240,McDonald's,McDonald's,41.91580715,-88.2067791,89,West North Avenue,West Chicago,IL,60185.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17043,DuPage
+way/1377914795,way,1377914795,McDonald's,McDonald's,41.972672,-87.95996655,630,Busse Road,Bensenville,IL,60106.0,Q38076,fast_food,yes,2025-04-15 22:27:52+00:00,1,,17043,DuPage
+way/1391052998,way,1391052998,McDonald's,McDonald's,41.48440745,-87.92168699999999,2151,East Laraway Road,New Lenox,IL,60451.0,Q38076,fast_food,yes,2025-05-30 21:57:56+00:00,1,,17197,Will
+way/1393239638,way,1393239638,McDonald's,McDonald's,41.13240005,-87.87614500000001,1030,North 5th Avenue,Kankakee,IL,60901.0,Q38076,fast_food,yes,2025-09-24 20:18:34+00:00,1,,17091,Kankakee
+way/142439026,way,142439026,McDonald's,McDonald's,41.57757255,-88.15808154999999,2885,Plainfield Road,Joliet,IL,60431.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17197,Will
+way/1424698168,way,1424698168,McDonald's,McDonald's,42.30402495,-87.87647204999999,30388,North Skokie Highway,Lake Bluff,IL,60044.0,Q38076,fast_food,yes,2025-08-25 01:44:29+00:00,1,,17097,Lake
+way/1436307925,way,1436307925,McDonald's,McDonald's,37.7865017,-89.0268465,,,,,,Q38076,fast_food,,2025-10-08 00:19:51+00:00,1,,17199,Williamson
+way/144059134,way,144059134,McDonald's,McDonald's,41.45436645,-88.19741065,24061,West Eames,Channahon,IL,60410.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17197,Will
+way/1445478375,way,1445478375,McDonald's,McDonald's,39.8986333,-89.60058710000001,,,,,,Q38076,fast_food,,2025-10-27 18:39:54+00:00,1,,17167,Sangamon
+way/146574145,way,146574145,McDonald's,McDonald's,42.1386428,-87.98150054999999,15,East Dundee Road,Arlington Heights,IL,60004.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17031,Cook
+way/147105305,way,147105305,McDonald's,McDonald's,41.80085375,-87.58805515,5200,South Lake Park Avenue,Chicago,IL,60615.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17031,Cook
+way/1503682471,way,1503682471,McDonald's,McDonald's,41.491893450000006,-90.48789985,3433,Avenue Of The Cities,Moline,IL,61265.0,Q38076,fast_food,yes,2026-04-25 18:53:45+00:00,1,,17161,Rock Island
+way/1511173578,way,1511173578,McDonald's,McDonald's,41.4703735,-90.52634155,810,41st Avenue Drive,Moline,IL,61265.0,Q38076,fast_food,,2026-05-10 03:49:58+00:00,1,,17161,Rock Island
+way/151184012,way,151184012,McDonald's,McDonald's,41.96050635,-87.78745155,6400,West Montrose Avenue,Harwood Heights,IL,60706.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17031,Cook
+way/1537784390,way,1537784390,McDonald's,McDonald's,42.17290319999999,-88.42808925,10711,Route 47,Huntley,IL,60142.0,Q38076,fast_food,yes,2026-07-12 20:59:11+00:00,1,,17111,McHenry
+way/158305681,way,158305681,McDonald's,McDonald's,42.37785075,-87.9396569,5555,Grand Avenue,Gurnee,IL,60031.0,Q38076,fast_food,yes,2025-04-12 04:39:03+00:00,1,,17097,Lake
+way/159142375,way,159142375,McDonald's,McDonald's,41.89693695,-87.62773985,10,East Chicago Avenue,Chicago,IL,60611.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17031,Cook
+way/160835829,way,160835829,McDonald's,McDonald's,41.11250365,-88.41237435,13,East Northbrook Drive,Dwight,IL,60420.0,Q38076,fast_food,yes,2024-02-06 23:25:00+00:00,1,,17063,Grundy
+way/162166162,way,162166162,McDonald's,McDonald's,41.8073351,-87.74353024999999,4704,South Cicero Avenue,Chicago,IL,60638.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17031,Cook
+way/162230011,way,162230011,McDonald's,McDonald's,41.7757807,-87.7426476,6430,South Cicero Avenue,Chicago,IL,60638.0,Q38076,fast_food,yes,2024-02-06 23:25:00+00:00,1,,17031,Cook
+way/162297593,way,162297593,McDonald's,McDonald's,41.84433065,-87.73229815,4334,West 26th Street,Chicago,IL,60623.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17031,Cook
+way/162390312,way,162390312,McDonald's,McDonald's,41.92283925,-87.74593239999999,2317,North Cicero Avenue,Chicago,IL,60639.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17031,Cook
+way/162391327,way,162391327,McDonald's,McDonald's,41.9101016,-87.735536,4338,West North Avenue,Chicago,IL,60639.0,Q38076,fast_food,yes,2025-01-20 23:53:19+00:00,1,,17031,Cook
+way/162436517,way,162436517,McDonald's,McDonald's,41.9392986,-87.7282883,4038,West Belmont Avenue,Chicago,IL,60641.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17031,Cook
+way/162439470,way,162439470,McDonald's,McDonald's,41.93126295,-87.74223190000001,4601,West Diversey Avenue,Chicago,IL,60639.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17031,Cook
+way/162448218,way,162448218,McDonald's,McDonald's,41.9458346,-87.74740515,3560,North Cicero Avenue,Chicago,IL,60641.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17031,Cook
+way/162513140,way,162513140,McDonald's,McDonald's,41.865868,-87.7653526,5624,West Roosevelt Road,Chicago,IL,60644.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17031,Cook
+way/162523972,way,162523972,McDonald's,McDonald's,41.8946394,-87.75538715,5153,West Chicago Avenue,Chicago,IL,60651.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17031,Cook
+way/162551705,way,162551705,McDonald's,McDonald's,41.92362985,-87.7663829,2350,North Central Avenue,Chicago,IL,60639.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17031,Cook
+way/162552578,way,162552578,McDonald's,McDonald's,41.90922705,-87.75515625,5133,West North Avenue,Chicago,IL,60639.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17031,Cook
+way/162702448,way,162702448,McDonald's,McDonald's,41.95929465,-87.74792744999999,4320,North Cicero Avenue,Chicago,IL,60641.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17031,Cook
+way/162856163,way,162856163,McDonald's,McDonald's,41.7923837,-87.78997989999999,6720,West Archer Avenue,Chicago,IL,60638.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17031,Cook
+way/163084412,way,163084412,McDonald's,McDonald's,41.930629,-87.78621765,2754,North Narragansett Avenue,Chicago,IL,60639.0,Q38076,fast_food,yes,2025-01-02 23:20:21+00:00,1,,17031,Cook
+way/163164666,way,163164666,McDonald's,McDonald's,41.95343,-87.76905740000001,5656,West Irving Park Road,Chicago,IL,60634.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17031,Cook
+way/163237807,way,163237807,McDonald's,McDonald's,41.99324865,-87.78354695,6125,North Milwaukee Avenue,Chicago,IL,60646.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17031,Cook
+way/163296105,way,163296105,McDonald's,McDonald's,41.94444205,-87.8072748,3540,North Harlem Avenue,Chicago,IL,60634.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17031,Cook
+way/163522913,way,163522913,McDonald's,McDonald's,41.74006385,-87.72132225,8415,South Pulaski Road,Chicago,IL,60652.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17031,Cook
+way/163572437,way,163572437,McDonald's,McDonald's,41.7702094,-87.72226805,6737,South Pulaski Road,Chicago,IL,60629.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17031,Cook
+way/163670169,way,163670169,McDonald's,McDonald's,41.79712465,-87.72259915000001,5253,South Pulaski Road,Chicago,IL,60632.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17031,Cook
+way/163775050,way,163775050,McDonald's,McDonald's,41.86672425,-87.70617145,3200,West Roosevelt Road,Chicago,IL,60624.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17031,Cook
+way/163885043,way,163885043,McDonald's,McDonald's,41.90981995,-87.7082154,3245,West North Avenue,Chicago,IL,60647.0,Q38076,fast_food,yes,2025-05-18 19:26:41+00:00,1,,17031,Cook
+way/163893062,way,163893062,McDonald's,McDonald's,41.9304638,-87.70924255,2707,North Milwaukee Avenue,Chicago,IL,60647.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17031,Cook
+way/163906777,way,163906777,McDonald's,McDonald's,41.9535401,-87.7182519,3615,West Irving Park Road,Chicago,IL,60618.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17031,Cook
+way/163949267,way,163949267,McDonald's,McDonald's,41.9641409,-87.7086382,4554,North Kedzie Avenue,Chicago,IL,60625.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17031,Cook
+way/164018993,way,164018993,McDonald's,McDonald's,41.976059750000005,-87.70823809999999,3154,West Foster Avenue,Chicago,IL,60625.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17031,Cook
+way/164021884,way,164021884,McDonald's,McDonald's,41.9900434,-87.71054294999999,3241,West Peterson Avenue,Chicago,IL,60659.0,Q38076,fast_food,yes,2024-08-15 04:49:39+00:00,1,,17031,Cook
+way/165040498,way,165040498,McDonald's,McDonald's,42.01204855,-87.70818885,3122,West Touhy Avenue,Chicago,IL,60645.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17031,Cook
+way/165052678,way,165052678,McDonald's,McDonald's,41.705590650000005,-87.7016404,10320,South Kedzie Avenue,Chicago,IL,60655.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17031,Cook
+way/165132177,way,165132177,McDonald's,McDonald's,41.78857545,-87.7031615,5733,South Kedzie Avenue,Chicago,IL,60629.0,Q38076,fast_food,yes,2026-04-30 16:25:16+00:00,1,,17031,Cook
+way/165243103,way,165243103,McDonald's,McDonald's,41.85232795,-87.6874435,2438,West Cermak Road,Chicago,IL,60608.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17031,Cook
+way/165243732,way,165243732,McDonald's,McDonald's,41.8440942,-87.70473659999999,2609,South Kedzie Avenue,Chicago,IL,60623.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17031,Cook
+way/165657597,way,165657597,McDonald's,McDonald's,39.4331655,-88.37759435000001,,,,,,Q38076,fast_food,yes,2024-02-06 23:25:00+00:00,1,,17029,Coles
+way/166402041,way,166402041,McDonald's,McDonald's,42.04530085,-87.88541185,444,South Des Plaines River Road,Des Plaines,IL,60016.0,Q38076,fast_food,yes,2026-02-25 21:03:12+00:00,1,,17031,Cook
+way/168822578,way,168822578,McDonald's,McDonald's,42.21738285000001,-88.25584915,678,Northwest Highway,Cary,IL,60013.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17111,McHenry
+way/175366456,way,175366456,McDonald's,McDonald's,41.921879950000005,-88.2617846,3900,East Main Street,Saint Charles,IL,60174.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17043,DuPage
+way/180905171,way,180905171,McDonald's,McDonald's,41.85010315,-87.8031695,7181,West Cermak Road,Berwyn,IL,60402.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17031,Cook
+way/182241427,way,182241427,McDonald's,McDonald's,37.8968379,-88.95147355,,,,,,Q38076,fast_food,,2024-02-06 23:25:00+00:00,1,,17055,Franklin
+way/185721059,way,185721059,McDonald's,McDonald's,41.8504462,-87.85168730000001,6200,Broadview Village Square,Broadview,IL,60155.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17031,Cook
+way/186577814,way,186577814,McDonald's,McDonald's,41.8339612,-87.89783485000001,11110,West 31st Street,Westchester,IL,60154.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17031,Cook
+way/188241507,way,188241507,McDonald's,McDonald's,39.9356455,-91.3644368,3201,East Broadway,Quincy,IL,62301.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17001,Adams
+way/190544253,way,190544253,McDonald's,McDonald's,40.1854606,-88.36830520000001,1006,Purnell Drive,Mahomet,IL,61853.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17019,Champaign
+way/190650327,way,190650327,McDonald's,McDonald's,38.9012611,-90.05755365,2,Airport Plaza,Bethalto,IL,62010.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17119,Madison
+way/190678986,way,190678986,McDonald's,McDonald's,41.7594833,-88.2068362,4440,Fox Valley Center,Aurora,IL,60507.0,Q38076,fast_food,yes,2025-08-16 14:57:58+00:00,1,,17043,DuPage
+way/190785746,way,190785746,McDonald's,McDonald's,38.53207845,-89.15893685,,,,,,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17027,Clinton
+way/191626749,way,191626749,McDonald's,McDonald's,39.4840143,-88.18227725,12,West Lincoln Avenue,Charleston,IL,61920.0,Q38076,fast_food,yes,2025-12-23 07:46:14+00:00,1,,17029,Coles
+way/191792310,way,191792310,McDonald's,McDonald's,38.44682445,-90.2184657,300,Columbia Center,Columbia,IL,62236.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17133,Monroe
+way/192787264,way,192787264,McDonald's,McDonald's,42.3799404,-88.0647784,774,East Rollins Road,Round Lake Beach,IL,60073.0,Q38076,fast_food,yes,2025-07-14 19:54:06+00:00,1,,17097,Lake
+way/193230966,way,193230966,McDonald's,McDonald's,42.4070674,-88.0277756,2250,East Grand,Lindenhurst,IL,60046.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17097,Lake
+way/194928102,way,194928102,McDonald's,McDonald's,41.8420763,-88.01087949999999,1,Yorktown Shopping Center,Lombard,IL,60148.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17043,DuPage
+way/195441760,way,195441760,McDonald's,McDonald's,42.05905015,-87.84178785,9815,Milwaukee Avenue,Glenview,IL,60016.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17031,Cook
+way/195443113,way,195443113,McDonald's,McDonald's,41.82981915,-88.05503905,3S010,Route 53,Glen Ellyn,IL,60137.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17043,DuPage
+way/195695230,way,195695230,McDonald's,McDonald's,37.729418,-88.53657625,,,,,,Q38076,fast_food,yes,2026-01-21 02:39:36+00:00,1,,17165,Saline
+way/195837730,way,195837730,McDonald's,McDonald's,42.3190674,-87.86549604999999,2211,Green Bay Road,North Chicago,IL,60064.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17097,Lake
+way/196185499,way,196185499,McDonald's,McDonald's,39.7911882,-88.27230745,1005,County Road 950 North,Tuscola,IL,61953.0,Q38076,fast_food,yes,2026-07-07 01:40:16+00:00,1,,17041,Douglas
+way/198548504,way,198548504,McDonald's,McDonald's,41.8608031,-88.00956310000001,300,East Roosevelt Road,Lombard,IL,60148.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17043,DuPage
+way/200043734,way,200043734,McDonald's,McDonald's,38.882788950000005,-90.1206739,102,Niagara Avenue,East Alton,IL,62024.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17119,Madison
+way/200053729,way,200053729,McDonald's,McDonald's,38.91618625,-90.15152865,2400,Homer M Adams Parkway,Alton,IL,62002.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17119,Madison
+way/200457891,way,200457891,McDonald's,McDonald's,39.7236139,-90.2373994,,,,IL,62650.0,Q38076,fast_food,yes,2024-02-06 23:25:00+00:00,1,,17137,Morgan
+way/200665159,way,200665159,McDonald's,McDonald's,41.74706405,-88.16375105,892,75th Street,Naperville,IL,60565.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17043,DuPage
+way/201716241,way,201716241,McDonald's,McDonald's,42.31749105,-89.0584121,6000,North 2nd Street,Rockford,IL,61111.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17201,Winnebago
+way/206476685,way,206476685,McDonald's,McDonald's,42.04107025,-87.7486623,4830,West Dempster Street,Skokie,IL,60077.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17031,Cook
+way/207404304,way,207404304,McDonald's,McDonald's,41.9624802,-87.83712395,4550,North Cumberland Avenue,Chicago,IL,60656.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17031,Cook
+way/207636110,way,207636110,McDonald's,McDonald's,39.1784895,-89.66902505,,,,,,Q38076,fast_food,yes,2024-02-06 23:25:00+00:00,1,,17135,Montgomery
+way/209381179,way,209381179,McDonald's,McDonald's,41.88189515,-87.68600395,23,North Western Avenue,Chicago,IL,60612.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17031,Cook
+way/209403717,way,209403717,McDonald's,McDonald's,41.91717075,-87.68692340000001,1951,North Western Avenue,Chicago,IL,60647.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17031,Cook
+way/209464564,way,209464564,McDonald's,McDonald's,41.9470599,-87.69365535,2600,West Addison Street,Chicago,IL,60618.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17031,Cook
+way/209478443,way,209478443,McDonald's,McDonald's,41.9699997,-87.68967745,4844,North Lincoln Avenue,Chicago,IL,60625.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17031,Cook
+way/209592075,way,209592075,McDonald's,McDonald's,42.007138600000005,-87.69046990000001,6900,North Western Avenue,Chicago,IL,60645.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17031,Cook
+way/209617050,way,209617050,McDonald's,McDonald's,41.72073335,-87.6644496,1657,West 95th Street,Chicago,IL,60643.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17031,Cook
+way/209637835,way,209637835,McDonald's,McDonald's,41.7512784,-87.68332000000001,7832,South Western Avenue,Chicago,IL,60620.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17031,Cook
+way/209653963,way,209653963,McDonald's,McDonald's,41.775324600000005,-87.6832148,6515,South Western Avenue,Chicago,IL,60636.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17031,Cook
+way/209675238,way,209675238,McDonald's,McDonald's,41.7779565,-87.6645412,6336,South Ashland Avenue,Chicago,IL,60636.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17031,Cook
+way/209840860,way,209840860,McDonald's,McDonald's,41.8956092,-87.67753135000001,2005,West Chicago Avenue,Chicago,IL,60622.0,Q38076,fast_food,yes,2025-06-15 21:54:08+00:00,1,,17031,Cook
+way/209946888,way,209946888,McDonald's,McDonald's,41.98393955,-87.669253,5614,North Clark Street,Chicago,IL,60660.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17031,Cook
+way/209952962,way,209952962,McDonald's,McDonald's,41.9975508,-87.67620205,1831,West Devon Avenue,Chicago,IL,60660.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17031,Cook
+way/209953767,way,209953767,McDonald's,McDonald's,42.004829650000005,-87.67316085,6740,North Clark Street,Chicago,IL,60626.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17031,Cook
+way/210050030,way,210050030,McDonald's,McDonald's,41.72006555,-87.6436129,9542,South Halsted Street,Chicago,IL,60628.0,Q38076,fast_food,yes,2026-01-23 22:06:50+00:00,1,,17031,Cook
+way/210090136,way,210090136,McDonald's,McDonald's,41.7424743,-87.66279854999999,8321,South Ashland Avenue,Chicago,IL,60620.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17031,Cook
+way/210164476,way,210164476,McDonald's,McDonald's,41.80905415,-87.6622946,1454,West 47th Street,Chicago,IL,60609.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17031,Cook
+way/210258348,way,210258348,McDonald's,McDonald's,41.8584575,-87.66096605,1664,South Blue Island Avenue,Chicago,IL,60608.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17031,Cook
+way/210321882,way,210321882,McDonald's,McDonald's,41.9307457,-87.64343389999999,2635,North Clark Street,Chicago,IL,60614.0,Q38076,fast_food,yes,2025-05-04 14:09:37+00:00,1,,17031,Cook
+way/210382113,way,210382113,McDonald's,McDonald's,41.96574,-87.65521824999999,1004,West Wilson Avenue,Chicago,IL,60640.0,Q38076,fast_food,yes,2024-06-22 17:03:37+00:00,1,,17031,Cook
+way/210391118,way,210391118,McDonald's,McDonald's,41.97617015,-87.65534755,5130,North Sheridan Road,Chicago,IL,60640.0,Q38076,fast_food,yes,2024-11-22 23:05:55+00:00,1,,17031,Cook
+way/210395753,way,210395753,McDonald's,McDonald's,41.99559735,-87.65997575,6231,North Broadway,Chicago,IL,60660.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17031,Cook
+way/210414865,way,210414865,McDonald's,McDonald's,41.68660365,-87.64192905,11421,South Halsted Street,Chicago,IL,60628.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17031,Cook
+way/210490651,way,210490651,McDonald's,McDonald's,41.73609105,-87.6229491,29,East 87th Street,Chicago,IL,60619.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17031,Cook
+way/210501622,way,210501622,McDonald's,McDonald's,41.7552388,-87.6322156,7601,South Vincennes Avenue,Chicago,IL,60620.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17031,Cook
+way/210515371,way,210515371,McDonald's,McDonald's,41.768531800000005,-87.6270303,6900,South Lafayette Avenue,Chicago,IL,60621.0,Q38076,fast_food,yes,2024-11-11 21:33:00+00:00,1,,17031,Cook
+way/210525123,way,210525123,McDonald's,McDonald's,41.7950175,-87.6229791,70,East Garfield Boulevard,Chicago,IL,60615.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17031,Cook
+way/210533175,way,210533175,McDonald's,McDonald's,41.83084315,-87.62114679999999,207,East 35th Street,Chicago,IL,60616.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17031,Cook
+way/210695176,way,210695176,McDonald's,McDonald's,41.68568725,-87.60768145,600,East 115th Street,Chicago,IL,60628.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17031,Cook
+way/210858660,way,210858660,McDonald's,McDonald's,41.7509369,-87.61547535,7900,South Doctor Martin Luther King Junior Drive,Chicago,IL,60619.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17031,Cook
+way/210915742,way,210915742,McDonald's,McDonald's,41.80977585,-87.6071132,740,East 47th Street,Chicago,IL,60653.0,Q38076,fast_food,yes,2024-02-06 23:25:00+00:00,1,,17031,Cook
+way/210965685,way,210965685,McDonald's,McDonald's,41.847088600000006,-87.61676130000001,2525,South Doctor Martin Luther King Junior Drive,Chicago,IL,60616.0,Q38076,fast_food,yes,2026-01-16 21:56:30+00:00,1,,17031,Cook
+way/211068640,way,211068640,McDonald's,McDonald's,41.73656225,-87.5888159,1443,East 87th Street,Chicago,IL,60619.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17031,Cook
+way/211213295,way,211213295,McDonald's,McDonald's,41.7753863,-87.5868615,6558,South Stony Island Avenue,Chicago,IL,60637.0,Q38076,fast_food,yes,2024-01-17 03:49:43+00:00,1,,17031,Cook
+way/211276753,way,211276753,McDonald's,McDonald's,41.72212305,-87.57577665,1951,East 95th Street,Chicago,IL,60617.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17031,Cook
+way/211303567,way,211303567,McDonald's,McDonald's,41.75135485,-87.5653645,2425,East 79th Street,Chicago,IL,60649.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17031,Cook
+way/211362327,way,211362327,McDonald's,McDonald's,41.72770675,-87.55087065000001,9211,South Commercial Avenue,Chicago,IL,60617.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17031,Cook
+way/211390375,way,211390375,McDonald's,McDonald's,41.70239745,-87.52496719999999,4047,East 106th Street,Chicago,IL,60617.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17031,Cook
+way/214442976,way,214442976,McDonald's,McDonald's,39.13979915,-88.5658396,1304,North Keller Drive,Effingham,IL,62401.0,Q38076,fast_food,yes,2025-04-02 06:42:49+00:00,1,,17049,Effingham
+way/214843973,way,214843973,McDonald's,McDonald's,42.37785735,-87.9040549,1275,North Delany Road,Gurnee,IL,60031.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17097,Lake
+way/217587176,way,217587176,McDonald's,McDonald's,40.752097000000006,-88.0007835,,,,,,Q38076,fast_food,yes,2024-02-06 23:25:00+00:00,1,,17075,Iroquois
+way/218163593,way,218163593,McDonald's,McDonald's,41.817913450000006,-87.66577219999999,4158,South Ashland Avenue,Chicago,IL,60609.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17031,Cook
+way/220089987,way,220089987,McDonald's,McDonald's,41.89285649999999,-87.63156459999999,600,North Clark Street,Chicago,IL,60654.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17031,Cook
+way/220411033,way,220411033,McDonald's,McDonald's,42.04138705,-87.7001116,1919,Dempster Street,Evanston,IL,60201.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17031,Cook
+way/224607539,way,224607539,McDonald's,McDonald's,41.70431305,-88.12666395,295,North Weber Road,Bolingbrook,IL,60440.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17197,Will
+way/225179798,way,225179798,McDonald's,McDonald's,41.86356835,-87.88347525,4012,Roosevelt Road,Hillside,IL,60162.0,Q38076,fast_food,yes,2025-09-04 21:27:05+00:00,1,,17031,Cook
+way/225522939,way,225522939,McDonald's,McDonald's,41.8308484,-88.2017783,2s606,Route 59,Warrenville,IL,60555.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17043,DuPage
+way/229330506,way,229330506,McDonald's,McDonald's,41.5231954,-88.11949845000001,1515,West Jefferson Street,Joliet,IL,60435.0,Q38076,fast_food,yes,2024-07-04 21:38:43+00:00,1,,17197,Will
+way/233325503,way,233325503,McDonald's,McDonald's,41.7200112,-87.7718435,6034,West 95th Street,Oak Lawn,IL,60453.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17031,Cook
+way/233378324,way,233378324,McDonald's,McDonald's,39.9192054,-88.9546552,109,Lucile Avenue,Forsyth,IL,62535.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17115,Macon
+way/233699548,way,233699548,McDonald's,McDonald's,41.82340235,-87.68858495,3867,South Archer Avenue,Chicago,IL,60632.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17031,Cook
+way/234049446,way,234049446,McDonald's,McDonald's,42.0405597,-87.78393890000001,6309,West Dempster Street,Morton Grove,IL,60053.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17031,Cook
+way/236882337,way,236882337,McDonald's,McDonald's,41.69039325,-87.81001255000001,11050,Southwest Highway,Palos Hills,IL,60465.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17031,Cook
+way/237429072,way,237429072,McDonald's,McDonald's,38.74987175,-90.0716613,1280,Engineer Road,Pontoon Beach,IL,62040.0,Q38076,fast_food,yes,2025-06-11 14:44:19+00:00,1,,17119,Madison
+way/238298068,way,238298068,McDonald's,McDonald's,40.617160850000005,-89.46477315,321,North Morton Avenue,Morton,IL,61550.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17179,Tazewell
+way/238849932,way,238849932,McDonald's,McDonald's,42.0494309,-88.05567450000001,955,East Golf Road,Schaumburg,IL,60173.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17031,Cook
+way/239137919,way,239137919,McDonald's,McDonald's,38.70084535,-90.1455497,2045,Madison Avenue,Granite City,IL,62040.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17119,Madison
+way/239508793,way,239508793,McDonald's,McDonald's,42.0257926,-87.813197,7969,North Milwaukee Avenue,Niles,IL,60714.0,Q38076,fast_food,yes,2025-12-17 23:03:05+00:00,1,,17031,Cook
+way/242117495,way,242117495,McDonald's,McDonald's,42.1945027,-88.21093665000001,840,Northwest Highway,Fox River Grove,IL,60021.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17111,McHenry
+way/243466793,way,243466793,McDonald's,McDonald's,41.59688285,-88.0218209,16519,West 159th Street,Lockport,IL,60441.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17197,Will
+way/244853889,way,244853889,McDonald's,McDonald's,40.13751775,-88.2431571,1812,North Neil Street,Champaign,IL,61820.0,Q38076,fast_food,yes,2026-06-12 18:06:00+00:00,1,,17019,Champaign
+way/245021613,way,245021613,McDonald's,McDonald's,42.01748735,-88.08042485,550,South Roselle Road,Schaumburg,IL,60193.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17031,Cook
+way/247513534,way,247513534,McDonald's,McDonald's,42.3162312,-89.03343545,3858,Northridge Drive,Rockford,IL,61114.0,Q38076,fast_food,yes,2025-12-01 20:17:58+00:00,1,,17201,Winnebago
+way/247558015,way,247558015,McDonald's,McDonald's,40.7041641,-89.4295587,1400,Washington Road,Washington,IL,61571.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17179,Tazewell
+way/24860625,way,24860625,McDonald's,McDonald's,42.0124425,-87.76221065,5360,West Touhy Avenue,Skokie,IL,60077.0,Q38076,fast_food,yes,2025-02-13 20:21:54+00:00,1,,17031,Cook
+way/248676524,way,248676524,McDonald's,McDonald's,42.3662302,-89.03255970000001,10101,North 2nd Street,Machesney Park,IL,61115.0,Q38076,fast_food,yes,2025-03-21 01:20:26+00:00,1,,17201,Winnebago
+way/250880749,way,250880749,McDonald's,McDonald's,40.09796335,-88.29391,2909,West Kirby Avenue,Champaign,IL,61821.0,Q38076,fast_food,yes,2026-02-02 17:13:41+00:00,1,,17019,Champaign
+way/252550189,way,252550189,McDonald's,McDonald's,42.315386,-89.0750813,930,West Riverside Boulevard,Rockford,IL,61103.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17201,Winnebago
+way/252823331,way,252823331,McDonald's,McDonald's,42.0218302,-87.9572285,1912,East Higgins Road,Elk Grove Village,IL,60007.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17031,Cook
+way/253600635,way,253600635,McDonald's,McDonald's,37.6992922,-89.2196361,1920,S Illinois Avenue,Carbondale,IL,62901.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17077,Jackson
+way/254959770,way,254959770,McDonald's,McDonald's,41.88574425,-87.66201029999999,1380,West Lake Street,Chicago,IL,60607.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17031,Cook
+way/255566261,way,255566261,McDonald's,McDonald's,41.931545,-88.76813385,805,West Lincoln Highway,Dekalb,IL,60115.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17037,DeKalb
+way/255606628,way,255606628,McDonald's,McDonald's,41.9291458,-88.74759765,545,East Lincoln Highway,Dekalb,IL,60115.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17037,DeKalb
+way/255941295,way,255941295,McDonald's,McDonald's,40.133514000000005,-88.25958155000001,906,West Bloomington Road,Champaign,IL,61821.0,Q38076,fast_food,yes,2025-03-30 06:49:27+00:00,1,,17019,Champaign
+way/257009737,way,257009737,McDonald's,McDonald's,41.19901695,-90.73324195,1402,Southeast 3rd Street,Aledo,,61231.0,Q38076,fast_food,,2024-02-06 23:25:04+00:00,1,,17131,Mercer
+way/257476928,way,257476928,McDonald's,McDonald's,42.26906205,-88.853452,1313,North State Street,Belvidere,IL,61008.0,Q38076,fast_food,yes,2024-05-29 19:07:50+00:00,1,,17007,Boone
+way/257854038,way,257854038,McDonald's,McDonald's,41.80858975,-88.02551185,,East Ogden Avenue,Downers Grove,IL,60515.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17043,DuPage
+way/258025978,way,258025978,McDonald's,McDonald's,41.93953725,-88.14983395,1335,County Farm Road,Carol Stream,IL,60188.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17043,DuPage
+way/258572192,way,258572192,McDonald's,McDonald's,41.7814178,-88.17878685,516,North River Road,Naperville,IL,60563.0,Q38076,fast_food,yes,2025-01-12 02:09:21+00:00,1,,17043,DuPage
+way/259860603,way,259860603,McDonald's,McDonald's,40.1182474,-88.2044391,601,North Cunningham Avenue,Urbana,IL,61801.0,Q38076,fast_food,yes,2026-06-25 02:35:57+00:00,1,,17019,Champaign
+way/259990008,way,259990008,McDonald's,McDonald's,41.97447685,-88.71587935,1660,Dekalb Avenue,Sycamore,IL,60178.0,Q38076,fast_food,yes,2024-05-29 18:58:19+00:00,1,,17037,DeKalb
+way/261183142,way,261183142,McDonald's,McDonald's,37.73547615,-89.1873145,1396,East Main Street,Carbondale,IL,62901.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17077,Jackson
+way/262265660,way,262265660,McDonald's,McDonald's,42.26758265,-88.97932435,420,South Perryville Road,Rockford,IL,61108.0,Q38076,fast_food,yes,2024-06-04 02:56:14+00:00,1,,17201,Winnebago
+way/262553117,way,262553117,McDonald's,McDonald's,42.2631275,-89.02554195,4620,East State Street,Rockford,IL,61108.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17201,Winnebago
+way/264252203,way,264252203,McDonald's,McDonald's,41.9669596,-87.99773695,1301,East Irving Park Road,Itasca,IL,60143.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17043,DuPage
+way/266698971,way,266698971,McDonald's,McDonald's,42.1371448,-88.01980735000001,1576,North Rand Road,Palatine,IL,60067.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17031,Cook
+way/266981285,way,266981285,McDonald's,McDonald's,42.2489217,-88.61048969999999,200,West Grant Highway,Marengo,IL,60152.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17111,McHenry
+way/274203531,way,274203531,McDonald's,,41.8580752,-88.14196985000001,2175,West Roosevelt Road,Wheaton,IL,60187.0,Q38076,,,2026-06-22 19:32:41+00:00,1,building with McDonald's brand but no amenity tag,17043,DuPage
+way/275000018,way,275000018,McDonald's,McDonald's,41.76095455,-88.2423555,425,North Eola Road,Aurora,IL,60504.0,Q38076,fast_food,yes,2024-05-13 16:34:39+00:00,1,,17043,DuPage
+way/28032904,way,28032904,McDonald's,McDonald's,42.1526975,-87.95054085,1355,Lake Cook Road,Wheeling,IL,60090.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17031,Cook
+way/281437415,way,281437415,McDonald's,McDonald's,41.9541878,-87.8635691,9449,Irving Park Road,Schiller Park,IL,60176.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17031,Cook
+way/281604492,way,281604492,McDonald's,McDonald's,41.7733592,-87.9727184,31,East 63rd Street,Westmont,IL,60559.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17043,DuPage
+way/284841675,way,284841675,McDonald's,McDonald's,38.6160448,-90.1282365,588,North 24th Street,East Saint Louis,IL,62205.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17163,St. Clair
+way/290043840,way,290043840,McDonald's,McDonald's,42.35447425,-88.26691410000001,1904,Richmond Road,Mchenry,IL,60050.0,Q38076,fast_food,yes,2025-04-23 21:15:34+00:00,1,,17111,McHenry
+way/290163570,way,290163570,McDonald's,McDonald's,41.88294835000001,-87.864175,520,25th Street,Bellwood,IL,60104.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17031,Cook
+way/292019061,way,292019061,McDonald's,McDonald's,41.83245535,-88.1040361,2030,Naperville Road,Wheaton,IL,60189.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17043,DuPage
+way/292642529,way,292642529,McDonald's,McDonald's,41.7981425,-88.1190459,1520,Naper Boulevard,Naperville,IL,60563.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17043,DuPage
+way/293371707,way,293371707,McDonald's,McDonald's,41.76029975,-88.32181449999999,350,West Galena Boulevard,Aurora,IL,60506.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17089,Kane
+way/293456353,way,293456353,McDonald's,McDonald's,37.7458278,-89.07356475,400,East Plaza Drive,Carterville,IL,62918.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17199,Williamson
+way/294855350,way,294855350,McDonald's,McDonald's,40.0237885,-88.5743944,,,,,,Q38076,fast_food,,2024-02-06 23:25:04+00:00,1,,17147,Piatt
+way/296594227,way,296594227,McDonald's,McDonald's,41.9510779,-88.11990349999999,72,South Gary Avenue,Bloomingdale,IL,60108.0,Q38076,fast_food,yes,2025-10-27 22:28:05+00:00,1,,17043,DuPage
+way/299775012,way,299775012,McDonald's,McDonald's,41.75252505,-87.96483814999999,809,Plainfield Road,Darien,IL,60561.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17043,DuPage
+way/301706253,way,301706253,McDonald's,McDonald's,38.58451815,-89.90916494999999,109,East Highway 50,O'Fallon,IL,62269.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17163,St. Clair
+way/307242213,way,307242213,McDonald's,McDonald's,41.6721166,-88.0681656,1300,Marquette Drive,Romeoville,IL,60446.0,Q38076,fast_food,yes,2025-08-08 19:26:22+00:00,1,,17197,Will
+way/308290703,way,308290703,McDonald's,McDonald's,41.85889405,-88.070554,445,West Roosevelt Road,Glen Ellyn,IL,60137.0,Q38076,fast_food,yes,2024-05-29 22:26:42+00:00,1,,17043,DuPage
+way/309499165,way,309499165,McDonald's,McDonald's,41.72665605,-88.03227525,840,Boughton Road,Bolingbrook,IL,60440.0,Q38076,fast_food,yes,2025-06-15 14:57:47+00:00,1,,17197,Will
+way/313517325,way,313517325,McDonald's,McDonald's,41.751222,-87.7993578,7701,Harlem Avenue,Bridgeview,IL,60455.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17031,Cook
+way/315081840,way,315081840,McDonald's,McDonald's,41.6582065,-88.0004437,1152,State Street,Lemont,IL,60439.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17031,Cook
+way/317244135,way,317244135,McDonald's,McDonald's,40.0975248,-88.24524385000001,1605,South Neil Street,Champaign,IL,61820.0,Q38076,fast_food,yes,2026-01-22 16:42:33+00:00,1,,17019,Champaign
+way/317308089,way,317308089,McDonald's,McDonald's,37.99895325,-89.23643085,,,,,,Q38076,fast_food,yes,2024-02-06 23:25:04+00:00,1,,17145,Perry
+way/317329940,way,317329940,McDonald's,McDonald's,41.748565,-87.75539,5355,79th Street,Burbank,IL,60459.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17031,Cook
+way/318991509,way,318991509,McDonald's,McDonald's,42.01327835,-88.18511215000001,91,West Irving Park Road,Streamwood,IL,60107.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17031,Cook
+way/319670298,way,319670298,McDonald's,McDonald's,39.3161397,-87.9838646,940,North Route 49,Casey,IL,62420.0,Q38076,fast_food,yes,2025-06-30 09:59:32+00:00,1,,17023,Clark
+way/320761966,way,320761966,McDonald's,McDonald's,42.2405386,-87.99494965,450,Townline Road,Mundelein,IL,60060.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17097,Lake
+way/321842359,way,321842359,McDonald's,McDonald's,41.93700225,-88.00084225,501,West Lake Street,Addison,IL,60101.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17043,DuPage
+way/321932216,way,321932216,McDonald's,McDonald's,41.97773195,-88.20655305,791,South Route 59,Bartlett,IL,60103.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17043,DuPage
+way/327501165,way,327501165,McDonald's,McDonald's,41.8890423,-87.910977,5707,Saint Charles Road,Berkeley,IL,60163.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17031,Cook
+way/327815132,way,327815132,McDonald's,McDonald's,42.10910755,-87.89086835,1200,Milwaukee Avenue,Prospect Heights,IL,60070.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17031,Cook
+way/331956739,way,331956739,McDonald's,McDonald's,42.25560945,-88.02191210000001,665,South Illinois 83,Mundelein,IL,60060.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17097,Lake
+way/332482899,way,332482899,McDonald's,McDonald's,41.95826575,-88.0805282,101,East Lake Street,Bloomingdale,IL,60108.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17043,DuPage
+way/333374122,way,333374122,McDonald's,McDonald's,42.340306,-87.8954731,1010,Waukegan Road,Waukegan,IL,60085.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17097,Lake
+way/333880846,way,333880846,McDonald's,McDonald's,41.8682717,-88.34136699999999,1812,South Randall Road,Geneva,IL,60134.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17089,Kane
+way/333881871,way,333881871,McDonald's,McDonald's,41.86460065,-87.83885054999999,511,Roosevelt Road,Maywood,IL,60153.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17031,Cook
+way/336603422,way,336603422,McDonald's,McDonald's,37.74041555,-88.9633073,,,,,,Q38076,fast_food,,2024-02-06 23:25:08+00:00,1,,17199,Williamson
+way/337036791,way,337036791,McDonald's,McDonald's,42.12351325,-88.33623575,2290,Randall Road,Carpentersville,IL,60110.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17089,Kane
+way/339861459,way,339861459,McDonald's,McDonald's,41.5538296,-89.06731745,,,,,,Q38076,fast_food,,2024-06-18 19:13:24+00:00,1,,17099,LaSalle
+way/348043248,way,348043248,McDonald's,McDonald's,41.8183908,-87.87036040000001,100,North La Grange Road,La Grange,IL,60525.0,Q38076,fast_food,yes,2024-12-11 07:48:39+00:00,1,,17031,Cook
+way/350634443,way,350634443,McDonald's,McDonald's,41.8076377,-89.95627185,606,East Lincoln Way,Morrison,IL,61270.0,Q38076,fast_food,yes,2025-04-04 12:39:18+00:00,1,,17195,Whiteside
+way/350710034,way,350710034,McDonald's,McDonald's,42.42933855,-87.82636744999999,39082,North Sheridan Road,Beach Park,IL,60099.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17097,Lake
+way/353893067,way,353893067,McDonald's,McDonald's,42.4089029,-88.61287279999999,,,,,,Q38076,fast_food,yes,2024-02-06 23:25:08+00:00,1,,17111,McHenry
+way/365561486,way,365561486,McDonald's,McDonald's,40.5033753,-88.99423970000001,804,South Main Street,Normal,IL,61701.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17113,McLean
+way/365598854,way,365598854,McDonald's,McDonald's,39.84587055,-88.93167335000001,1835,East El Dorado,Decatur,IL,62521.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17115,Macon
+way/368854853,way,368854853,McDonald's,McDonald's,41.69893905,-88.06784435,100,North Bolingbrook Drive,Bolingbrook,IL,60440.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17197,Will
+way/368854854,way,368854854,McDonald's,McDonald's,41.65107445,-88.12413889999999,675,North Weber Road,Romeoville,IL,60446.0,Q38076,fast_food,yes,2024-05-29 17:39:38+00:00,1,,17197,Will
+way/380623600,way,380623600,McDonald's,McDonald's,39.41838535,-87.69279195,,,,,,Q38076,fast_food,yes,2024-02-06 23:25:08+00:00,1,,17023,Clark
+way/381392997,way,381392997,McDonald's,McDonald's,41.41824485,-88.26467855,,,,,,Q38076,fast_food,yes,2024-02-06 23:25:08+00:00,1,,17063,Grundy
+way/384157508,way,384157508,McDonald's,McDonald's,41.88018275,-87.75068865,5015,West Madison Street,Chicago,IL,60644.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17031,Cook
+way/402743135,way,402743135,McDonald's,McDonald's,42.0045863,-87.9602367,1450,Busse Road,Elk Grove Village,IL,60007.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17031,Cook
+way/407794064,way,407794064,McDonald's,McDonald's,42.346784850000006,-88.2842409,4411,West Elm Street,Mchenry,IL,60050.0,Q38076,fast_food,yes,2025-11-16 07:42:14+00:00,1,,17111,McHenry
+way/40782742,way,40782742,McDonald's,McDonald's,41.93357935,-87.6688973,2834,North Ashland Avenue,Chicago,IL,60657.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17031,Cook
+way/408058979,way,408058979,McDonald's,McDonald's,42.32585715,-88.27369395,302,Knox Drive,Mchenry,IL,60050.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17111,McHenry
+way/408445245,way,408445245,McDonald's,McDonald's,41.96803575,-87.72487240000001,3855,West Lawrence Avenue,Chicago,IL,60625.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17031,Cook
+way/408750195,way,408750195,McDonald's,McDonald's,41.73449185,-87.70187725,8715,South Kedzie Avenue,Evergreen Park,IL,60805.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17031,Cook
+way/411828567,way,411828567,McDonald's,McDonald's,41.90789145,-87.8336333,8327,North Avenue,Melrose Park,IL,60160.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17031,Cook
+way/41229497,way,41229497,McDonald's,McDonald's,41.92477605,-87.67195025000001,1737,West Fullerton Avenue,Chicago,IL,60614.0,Q38076,fast_food,yes,2024-09-30 22:59:32+00:00,1,,17031,Cook
+way/413765845,way,413765845,McDonald's,McDonald's,42.09458415,-88.2876214,386,South 8th Street,West Dundee,IL,60118.0,Q38076,fast_food,yes,2026-03-18 16:08:15+00:00,1,,17089,Kane
+way/416149496,way,416149496,McDonald's,McDonald's,41.6625499,-87.6615267,12700,South Ashland Avenue,Calumet Park,IL,60827.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17031,Cook
+way/420213586,way,420213586,McDonald's,McDonald's,42.0258385,-87.85322345,1032,North Northwest Highway,Park Ridge,IL,60068.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17031,Cook
+way/421212683,way,421212683,McDonald's,McDonald's,41.9715269,-87.80755020000001,5022,North Harlem Avenue,Harwood Heights,IL,60706.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17031,Cook
+way/42278937,way,42278937,McDonald's,McDonald's,42.02345775,-87.89702025,1101,East Oakton Street,Des Plaines,IL,60018.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17031,Cook
+way/42376644,way,42376644,McDonald's,McDonald's,41.4950289,-88.16790474999999,1421,Riverboat Center Boulevard,Joliet,IL,60431.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17197,Will
+way/423966079,way,423966079,McDonald's,McDonald's,38.79309175,-89.950662,1704,Troy Road,Edwardsville,IL,62025.0,Q38076,fast_food,yes,2025-04-19 23:31:56+00:00,1,,17119,Madison
+way/424472763,way,424472763,McDonald's,McDonald's,41.8514103,-87.76141915,5500,West Cermak Road,Cicero,IL,60804.0,Q38076,fast_food,yes,2025-03-03 16:33:05+00:00,1,,17031,Cook
+way/424472765,way,424472765,McDonald's,McDonald's,41.85030965,-87.784239,6401,West Cermak Road,Berwyn,IL,60402.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17031,Cook
+way/424473015,way,424473015,McDonald's,McDonald's,41.8796868,-87.7779505,111,Madison Street,Oak Park,IL,60302.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17031,Cook
+way/424474473,way,424474473,McDonald's,McDonald's,41.8916607,-87.8055252,626,North Harlem Avenue,River Forest,IL,60305.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17031,Cook
+way/426899673,way,426899673,McDonald's,McDonald's,41.970612,-87.7637001,4946,North Milwaukee Avenue,Chicago,IL,60630.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17031,Cook
+way/431232129,way,431232129,McDonald's,McDonald's,37.7354659,-88.9329597,700,North Court Street,Marion,IL,62959.0,Q38076,fast_food,yes,2024-02-06 23:25:13+00:00,1,,17199,Williamson
+way/432940145,way,432940145,McDonald's,McDonald's,41.84065495,-87.74323265000001,2827,South Cicero Avenue,Cicero,IL,60804.0,Q38076,fast_food,yes,2025-01-16 17:42:13+00:00,1,,17031,Cook
+way/437524805,way,437524805,McDonald's,McDonald's,41.11852475,-87.840951,1780,East Court Street,Kankakee,IL,60901.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17091,Kankakee
+way/437668289,way,437668289,McDonald's,McDonald's,42.39404375,-88.18443300000001,40,South Route 12,Fox Lake,IL,60020.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17097,Lake
+way/437690754,way,437690754,McDonald's,McDonald's,41.3756465,-88.42262445,1700,Division Street,Morris,IL,60450.0,Q38076,fast_food,yes,2024-03-04 18:22:47+00:00,1,,17063,Grundy
+way/438883872,way,438883872,McDonald's,McDonald's,42.0476941,-88.0803955,1070,North Roselle Road,Hoffman Estates,IL,60169.0,Q38076,fast_food,yes,2024-09-12 22:25:58+00:00,1,,17031,Cook
+way/439620382,way,439620382,McDonald's,McDonald's,40.8731804,-88.64307249999999,,,,,,Q38076,fast_food,,2024-02-06 23:25:13+00:00,1,,17105,Livingston
+way/443607797,way,443607797,McDonald's,McDonald's,41.78628565,-88.07144260000001,1019,Maple Avenue,Lisle,IL,60532.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17043,DuPage
+way/446744398,way,446744398,McDonald's,McDonald's,42.3235933,-88.16370115,31667,Highway 12,Volo,IL,60073.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17097,Lake
+way/447973881,way,447973881,McDonald's,McDonald's,42.18694705,-88.10206305,653,South Rand Road,Lake Zurich,IL,60047.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17097,Lake
+way/448009667,way,448009667,McDonald's,McDonald's,42.31304665,-88.43522075000001,250,South Eastwood Drive,Woodstock,IL,60098.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17111,McHenry
+way/448759266,way,448759266,McDonald's,McDonald's,42.01978595,-87.68770945,1117,Howard Street,Evanston,IL,60202.0,Q38076,fast_food,yes,2026-03-08 18:12:45+00:00,1,,17031,Cook
+way/449143801,way,449143801,McDonald's,McDonald's,42.28253225,-88.20823709999999,600,West State Road,Island Lake,IL,60042.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17111,McHenry
+way/450494034,way,450494034,McDonald's,McDonald's,40.09736875,-88.1911835,1705,South Philo Road,Urbana,IL,61802.0,Q38076,fast_food,yes,2026-05-05 23:44:08+00:00,1,,17019,Champaign
+way/450942347,way,450942347,McDonald's,McDonald's,41.8790944,-87.81351029999999,420,Des Plaines Avenue,Forest Park,IL,60130.0,Q38076,fast_food,yes,2025-10-21 19:55:47+00:00,1,,17031,Cook
+way/450953127,way,450953127,McDonald's,McDonald's,41.86464995,-87.80325145,7135,West Roosevelt Road,Berwyn,IL,60402.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17031,Cook
+way/450953129,way,450953129,McDonald's,McDonald's,41.8252318,-87.79947425,7031,West Ogden Avenue,Berwyn,IL,60402.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17031,Cook
+way/451243239,way,451243239,McDonald's,McDonald's,38.62547925,-88.9652356,,,,,,Q38076,fast_food,yes,2024-04-10 23:32:46+00:00,1,,17121,Marion
+way/451400602,way,451400602,McDonald's,McDonald's,42.28027105,-89.24315915,103,Capriola Parkway,Winnebago,IL,61088.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17201,Winnebago
+way/453179125,way,453179125,McDonald's,McDonald's,41.6019508,-87.8410916,9110,West 159th Street,Orland Park,IL,60462.0,Q38076,fast_food,yes,2024-02-06 23:25:13+00:00,1,,17031,Cook
+way/453186666,way,453186666,McDonald's,McDonald's,41.62696515,-87.85314514999999,14445,South La Grange Road,Orland Park,IL,60462.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17031,Cook
+way/45367118,way,45367118,McDonald's,McDonald's,41.56258855,-88.16078125,2212,Essington Road,Joliet,IL,60435.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17197,Will
+way/455235954,way,455235954,McDonald's,McDonald's,41.51785795,-87.9817771,600,West Maple Street,New Lenox,IL,60451.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17197,Will
+way/463067654,way,463067654,McDonald's,McDonald's,42.14881205,-88.51127155,19,North 649 US Route 20,Hampshire,IL,60140.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17089,Kane
+way/476773329,way,476773329,McDonald's,McDonald's,41.2656638,-88.2084337,285,North Front Street,Braidwood,IL,60408.0,Q38076,fast_food,yes,2024-02-06 23:25:13+00:00,1,,17197,Will
+way/478297185,way,478297185,McDonald's,McDonald's,41.80155865,-88.17172575000001,28231,Diehl Road,Warrenville,IL,60555.0,Q38076,fast_food,yes,2024-05-25 03:10:57+00:00,1,,17043,DuPage
+way/478380481,way,478380481,McDonald's,McDonald's,41.92393485,-87.80762655000001,7227,West Grand Avenue,Elmwood Park,IL,60707.0,Q38076,fast_food,yes,2024-07-20 23:09:17+00:00,1,,17031,Cook
+way/478754804,way,478754804,McDonald's,McDonald's,42.2376694,-89.03104594999999,4403,Harrison Avenue,Rockford,IL,61108.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17201,Winnebago
+way/480034714,way,480034714,McDonald's,McDonald's,42.26558135,-88.00352459999999,151,North Lake Street,Mundelein,IL,60060.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17097,Lake
+way/480077683,way,480077683,McDonald's,McDonald's,40.5098377,-88.95595105,1535,East College Avenue,Bloomington,IL,61704.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17113,McLean
+way/48024536,way,48024536,McDonald's,McDonald's,42.00390645,-88.0045794,10,Biesterfield Road,Elk Grove Village,IL,60007.0,Q38076,fast_food,yes,2025-02-04 23:04:05+00:00,1,,17031,Cook
+way/484821404,way,484821404,McDonald's,McDonald's,41.5640447,-87.88876725,11111,West 179th Street,Orland Park,IL,60467.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17031,Cook
+way/491217939,way,491217939,McDonald's,McDonald's,41.71442775,-88.2537537,2230,South Eola Road,Aurora,IL,60503.0,Q38076,fast_food,yes,2025-06-23 21:04:21+00:00,1,,17197,Will
+way/493383954,way,493383954,McDonald's,McDonald's,38.315589,-88.9264721,2806,Broadway Street,Mount Vernon,IL,62864.0,Q38076,fast_food,yes,2024-04-10 23:32:46+00:00,1,,17081,Jefferson
+way/49805298,way,49805298,McDonald's,McDonald's,41.455416,-88.27062939999999,,,,,,Q38076,fast_food,,2024-02-06 23:24:57+00:00,1,,17063,Grundy
+way/50278855,way,50278855,McDonald's,McDonald's,41.6958459,-88.3217124,2890,Route 34,Oswego,IL,60543.0,Q38076,fast_food,yes,2025-06-04 17:15:47+00:00,1,,17093,Kendall
+way/508042965,way,508042965,McDonald's,McDonald's,40.48340895,-89.02326199999999,525,Brock Drive,Bloomington,IL,61701.0,Q38076,fast_food,yes,2026-06-09 00:49:57+00:00,1,,17113,McLean
+way/516893396,way,516893396,McDonald's,McDonald's,41.65265645,-88.0798441,645,Independence Boulevard,Romeoville,IL,60446.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17197,Will
+way/517981609,way,517981609,McDonald's,McDonald's,41.77490405,-88.44158645,523,Illinois Route 47,Sugar Grove,IL,60554.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17089,Kane
+way/519425210,way,519425210,McDonald's,McDonald's,42.027046850000005,-88.33796645000001,255,South Randall Road,Elgin,IL,60123.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17089,Kane
+way/520825761,way,520825761,McDonald's,McDonald's,42.17449865,-88.33469729999999,125,South Randall Road,Algonquin,IL,60102.0,Q38076,fast_food,yes,2026-04-25 03:20:21+00:00,1,,17111,McHenry
+way/524091797,way,524091797,McDonald's,McDonald's,41.629746,-87.9317556,14298,South Bell Road,Homer Glen,IL,60491.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17197,Will
+way/524774287,way,524774287,McDonald's,McDonald's,42.1640315,-88.28326555000001,500,East Algonquin Road,Algonquin,IL,60102.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17111,McHenry
+way/535361864,way,535361864,McDonald's,McDonald's,42.2580223,-88.1519448,511,West Liberty Street,Wauconda,IL,60084.0,Q38076,fast_food,yes,2026-05-25 04:22:23+00:00,1,,17097,Lake
+way/535735409,way,535735409,McDonald's,McDonald's,42.08171745,-87.93847495,13,West Rand Road,Mount Prospect,IL,60056.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17031,Cook
+way/541741696,way,541741696,McDonald's,McDonald's,42.27978795,-89.63220975,1710,South West Avenue,Freeport,IL,61032.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17177,Stephenson
+way/54223036,way,54223036,McDonald's,McDonald's,42.0471515,-87.9377142,725,West Golf Road,Des Plaines,IL,60016.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17031,Cook
+way/543978449,way,543978449,McDonald's,McDonald's,42.4805603,-88.30649765,,,,,,Q38076,fast_food,yes,2026-06-07 21:38:32+00:00,1,,17111,McHenry
+way/544211936,way,544211936,McDonald's,McDonald's,40.8181481,-89.6141109,10701,North Knoxville,Peoria,IL,61615.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17143,Peoria
+way/544366832,way,544366832,McDonald's,McDonald's,41.7510879,-88.0394695,2310,West 75th Street,Woodridge,IL,60517.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17043,DuPage
+way/544379009,way,544379009,McDonald's,McDonald's,41.8691022,-87.9349907,190,East Butterfield Road,Elmhurst,IL,60126.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17043,DuPage
+way/547580030,way,547580030,McDonald's,McDonald's,42.23987505,-88.84062175,240,Chrysler Drive,Belvidere,IL,61008.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17007,Boone
+way/547745967,way,547745967,McDonald's,McDonald's,41.59444675,-88.2021448,15810,South Route 59,Plainfield,IL,60544.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17197,Will
+way/547964652,way,547964652,McDonald's,McDonald's,40.67010415,-89.58153865,161,Spinder Drive,East Peoria,IL,61611.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17179,Tazewell
+way/548456011,way,548456011,McDonald's,McDonald's,42.1886582,-87.8018462,1988,1st Street,Highland Park,IL,60035.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17097,Lake
+way/548467772,way,548467772,McDonald's,McDonald's,38.562934850000005,-90.17751025,1110,Camp Jackson Road,Cahokia,IL,62206.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17163,St. Clair
+way/548974688,way,548974688,McDonald's,McDonald's,41.33814615,-89.11764825,924,Shooting Park Road,Peru,IL,61354.0,Q38076,fast_food,yes,2025-10-09 18:59:48+00:00,1,,17099,LaSalle
+way/549354747,way,549354747,McDonald's,McDonald's,40.9071509,-89.49387025,,,,,,Q38076,fast_food,,2024-02-06 23:25:13+00:00,1,,17143,Peoria
+way/549783403,way,549783403,McDonald's,McDonald's,38.5175362,-89.9490611,,,,,,Q38076,fast_food,,2024-10-22 21:08:31+00:00,1,,17163,St. Clair
+way/550503412,way,550503412,McDonald's,McDonald's,38.5264074,-89.1248678,,,,,,Q38076,fast_food,yes,2024-02-06 23:25:13+00:00,1,,17121,Marion
+way/551176915,way,551176915,McDonald's,McDonald's,41.778670000000005,-88.31512565,1023,North Lake Street,Aurora,IL,60506.0,Q38076,fast_food,yes,2025-09-11 10:34:55+00:00,1,,17089,Kane
+way/553669125,way,553669125,McDonald's,McDonald's,38.94688055,-90.19028475,5511,Godfrey Road,Godfrey,IL,62035.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17119,Madison
+way/556892739,way,556892739,McDonald's,McDonald's,38.6790317,-90.0112097,520,Ramada Boulevard,Collinsville,IL,62234.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17119,Madison
+way/557813510,way,557813510,McDonald's,McDonald's,40.45818595,-90.65192365,105,South Prairie Street,Macomb,IL,61455.0,Q38076,fast_food,yes,2024-02-06 23:25:16+00:00,1,,17109,McDonough
+way/558669828,way,558669828,McDonald's,McDonald's,40.4584012,-90.6804032,,,,,,Q38076,fast_food,yes,2024-02-06 23:25:16+00:00,1,,17109,McDonough
+way/560873936,way,560873936,McDonald's,McDonald's,42.11156295,-87.9811866,1920,North Arlington Heights Road,Arlington Heights,IL,60004.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17031,Cook
+way/573690093,way,573690093,McDonald's,McDonald's,41.90251595,-88.47160165,932,Center Avenue,Elburn,IL,60119.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17089,Kane
+way/585236803,way,585236803,McDonald's,McDonald's,41.6771246,-87.72023300000001,11850,South Pulaski Road,Alsip,IL,60803.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17031,Cook
+way/586398574,way,586398574,McDonald's,McDonald's,38.69136145,-89.97696485,503,Beltline Road,Collinsville,IL,62234.0,Q38076,fast_food,yes,2024-06-17 22:20:54+00:00,1,,17119,Madison
+way/586705875,way,586705875,McDonald's,McDonald's,40.7365363,-89.0272828,664,West Main Street,El Paso,IL,61738.0,Q38076,fast_food,yes,2024-12-22 06:44:35+00:00,1,,17203,Woodford
+way/589107988,way,589107988,McDonald's,McDonald's,40.44946265,-88.9915053,2410,South Main Street,Bloomington,IL,61701.0,Q38076,fast_food,yes,2026-06-09 00:57:12+00:00,1,,17113,McLean
+way/589126832,way,589126832,McDonald's,McDonald's,40.4889815,-88.9185463,3102,East Empire Street,Bloomington,IL,61704.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17113,McLean
+way/589126833,way,589126833,McDonald's,McDonald's,40.488904950000006,-88.95610725,1610,East Empire Street,Bloomington,IL,61701.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17113,McLean
+way/589777613,way,589777613,McDonald's,McDonald's,41.62303175,-87.62851985,226,West Sibley Boulevard,Dolton,IL,60419.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17031,Cook
+way/591640156,way,591640156,McDonald's,McDonald's,39.87708475,-88.9556678,3005,North Water Street,Decatur,IL,62526.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17115,Macon
+way/595921178,way,595921178,McDonald's,McDonald's,42.04583025,-88.27549404999999,401,Summit Street,Elgin,IL,60120.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17089,Kane
+way/597017534,way,597017534,McDonald's,McDonald's,42.36408595,-87.83038225,304,North Sheridan Road,Waukegan,IL,60085.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17097,Lake
+way/602805353,way,602805353,McDonald's,McDonald's,42.1734726,-87.9858084,1200,North Arlington Heights Road,Buffalo Grove,IL,60089.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17097,Lake
+way/60693542,way,60693542,McDonald's,McDonald's,41.8475362,-87.9718057,2111,Midwest Road,Oak Brook,IL,60523.0,Q38076,fast_food,yes,2025-07-23 22:36:10+00:00,1,,17043,DuPage
+way/615247726,way,615247726,McDonald's,McDonald's,41.24998655,-87.84814695,103,South Creek Drive,Manteno,IL,60950.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17091,Kankakee
+way/615442313,way,615442313,McDonald's,McDonald's,41.49283485,-90.5565429,1813,30th Street,Rock Island,IL,61201.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17161,Rock Island
+way/616453035,way,616453035,McDonald's,McDonald's,40.4565462,-88.3761639,801,South Sangamon Avenue,Gibson City,IL,60936.0,Q38076,fast_food,yes,2026-01-12 06:41:04+00:00,1,,17053,Ford
+way/617653919,way,617653919,McDonald's,McDonald's,41.85041605,-88.30920875000001,125,West Wilson Street,Batavia,IL,60510.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17089,Kane
+way/622476767,way,622476767,McDonald's,McDonald's,41.81819665,-87.92613170000001,935,North York Road,Hinsdale,IL,60521.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17043,DuPage
+way/62256402,way,62256402,McDonald's,McDonald's,42.3860122,-87.9595579,6380,Grand Avenue,Gurnee,IL,60031.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17097,Lake
+way/63526461,way,63526461,McDonald's,McDonald's,40.7704947,-89.65631385,4007,West Baring Trace,Peoria,IL,61615.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17143,Peoria
+way/63809399,way,63809399,McDonald's,McDonald's,40.7315106,-89.61199635,3600,North University Street,,IL,61604.0,Q38076,fast_food,yes,2024-02-17 11:49:22+00:00,1,,17143,Peoria
+way/64114711,way,64114711,McDonald's,McDonald's,40.7819338,-89.6208073,7720,North University Street,Peoria,IL,61614.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17143,Peoria
+way/643238382,way,643238382,McDonald's,McDonald's,39.93551725,-91.3387878,4805,Broadway Street,Quincy,IL,62305.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17001,Adams
+way/64336907,way,64336907,McDonald's,McDonald's,40.73274065,-89.57459125,3717,North Prospect,Peoria Heights,IL,61614.0,Q38076,fast_food,yes,2026-05-31 22:48:10+00:00,1,,17143,Peoria
+way/64362790,way,64362790,McDonald's,McDonald's,40.7441672,-89.6301742,2320,West War Memorial Drive,Peoria,IL,61614.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17143,Peoria
+way/644215834,way,644215834,McDonald's,McDonald's,38.3499412,-90.15023805,,,,,,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17133,Monroe
+way/645808242,way,645808242,McDonald's,McDonald's,41.3485043,-87.6206589,901,Dixie Highway,Beecher,IL,60401.0,Q38076,fast_food,,2024-02-06 23:25:16+00:00,1,,17197,Will
+way/648240156,way,648240156,McDonald's,McDonald's,42.05735965,-88.1364701,2270,West Higgins Road,Hoffman Estates,IL,60169.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17031,Cook
+way/648276005,way,648276005,McDonald's,McDonald's,42.0471476,-88.14336465,2580,West Golf Road,Hoffman Estates,IL,60194.0,Q38076,fast_food,yes,2024-09-12 22:25:58+00:00,1,,17031,Cook
+way/648632264,way,648632264,McDonald's,McDonald's,42.02440095,-88.14354449999999,2545,West Schaumburg Road,Schaumburg,IL,60194.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17031,Cook
+way/653668302,way,653668302,McDonald's,McDonald's,41.2293315,-89.9277726,,,,,,Q38076,fast_food,yes,2024-02-06 23:25:16+00:00,1,,17073,Henry
+way/65817881,way,65817881,McDonald's,McDonald's,40.69563775,-89.62328074999999,627,North Western Avenue,West Peoria,IL,61604.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17143,Peoria
+way/65924507,way,65924507,McDonald's,McDonald's,40.65327235,-89.64784230000001,5600,South Washington Street,Bartonville,IL,61607.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17143,Peoria
+way/65924810,way,65924810,McDonald's,McDonald's,40.6455412,-89.67384765,1205,West Garfield,Bartonville,IL,61607.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17143,Peoria
+way/660880685,way,660880685,McDonald's,McDonald's,41.7256798,-87.6829218,9156,South Western Avenue,Evergreen Park,IL,60805.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17031,Cook
+way/66419087,way,66419087,McDonald's,McDonald's,42.3051455,-87.98094615,1417,West Peterson,Libertyville,IL,60048.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17097,Lake
+way/670007627,way,670007627,McDonald's,McDonald's,38.07951415,-88.17797585,,,,,,Q38076,fast_food,yes,2026-03-02 07:26:06+00:00,1,,17193,White
+way/676940711,way,676940711,McDonald's,McDonald's,38.62740505,-89.3719104,,,,,,Q38076,fast_food,yes,2026-07-06 20:43:41+00:00,1,,17027,Clinton
+way/677087978,way,677087978,McDonald's,McDonald's,37.998056,-88.9377616,,,Benton,IL,,Q38076,fast_food,yes,2024-04-10 23:32:46+00:00,1,,17055,Franklin
+way/677110072,way,677110072,McDonald's,McDonald's,37.92654085,-89.80496195,,,,,,Q38076,fast_food,,2024-02-06 23:25:16+00:00,1,,17157,Randolph
+way/677523641,way,677523641,McDonald's,McDonald's,42.0953613,-88.6834865,,,,,,Q38076,fast_food,,2024-02-06 23:25:16+00:00,1,,17037,DeKalb
+way/680244013,way,680244013,McDonald's,McDonald's,42.428286,-89.01585689999999,5195,Elevator Road,Roscoe,IL,61073.0,Q38076,fast_food,yes,2025-04-10 23:45:19+00:00,1,,17201,Winnebago
+way/68668400,way,68668400,McDonald's,McDonald's,41.7496978,-88.11568645,1298,Naper Boulevard,Naperville,IL,60540.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17043,DuPage
+way/702569235,way,702569235,McDonald's,McDonald's,41.58567505,-87.7199928,4239,167th Street,Country Club Hills,IL,60478.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17031,Cook
+way/702571892,way,702571892,McDonald's,McDonald's,41.8028624,-88.37279495,190,Hansen Boulevard,North Aurora,IL,60542.0,Q38076,fast_food,yes,2026-07-21 23:11:46+00:00,1,,17089,Kane
+way/70377860,way,70377860,McDonald's,McDonald's,42.26730645,-89.08008045,1032,East State Street,Rockford,IL,61104.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17201,Winnebago
+way/706546960,way,706546960,McDonald's,McDonald's,40.4720233,-88.9533122,2507,East Oakland Avenue,Bloomington,IL,61701.0,Q38076,fast_food,yes,2024-11-22 04:48:02+00:00,1,,17113,McLean
+way/706822283,way,706822283,McDonald's,McDonald's,41.600437,-87.5410233,656,River Oaks Drive,Calumet City,IL,60409.0,Q38076,fast_food,yes,2025-03-11 20:51:14+00:00,1,,17031,Cook
+way/706822342,way,706822342,McDonald's,McDonald's,41.5576139,-87.6933077,3132,183rd Street,Homewood,IL,60430.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17031,Cook
+way/706912943,way,706912943,McDonald's,McDonald's,41.4396431,-90.15357785,1022,South Oakwood Avenue,Geneseo,IL,61254.0,Q38076,fast_food,yes,2026-05-04 05:50:12+00:00,1,,17073,Henry
+way/707365133,way,707365133,McDonald's,McDonald's,39.81973925,-88.87868875000001,1909,South Mount Zion Road,Decatur,IL,62521.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17115,Macon
+way/718500212,way,718500212,McDonald's,McDonald's,41.88182655,-88.19390065,305,South Neltnor Boulevard,West Chicago,IL,60185.0,Q38076,fast_food,yes,2026-06-22 19:32:41+00:00,1,,17043,DuPage
+way/718594019,way,718594019,McDonald's,McDonald's,41.9122761,-88.3378723,1915,West Main Street,St. Charles,IL,60174.0,Q38076,fast_food,yes,2025-11-03 23:25:01+00:00,1,,17089,Kane
+way/718621632,way,718621632,McDonald's,McDonald's,41.98128805,-88.3414789,453,Redington Drive,South Elgin,IL,60177.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17089,Kane
+way/731913493,way,731913493,McDonald's,McDonald's,42.1511231,-88.43181405,12242,IL-47,Huntley,IL,60142.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17089,Kane
+way/731953302,way,731953302,McDonald's,McDonald's,39.11035495,-90.31928915,911,South State Street,Jerseyville,IL,62052.0,Q38076,fast_food,yes,2024-02-06 23:25:21+00:00,1,,17083,Jersey
+way/740506031,way,740506031,McDonald's,McDonald's,38.49695535,-89.79402719999999,721,North Jefferson Street,Mascoutah,IL,62258.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17163,St. Clair
+way/741785673,way,741785673,McDonald's,McDonald's,37.153548400000005,-88.71298895,1545,East Fifth Street,Metropolis,IL,62960.0,Q38076,fast_food,yes,2024-05-09 12:00:24+00:00,1,,17127,Massac
+way/746489309,way,746489309,McDonald's,McDonald's,42.19872955,-88.05871565,123,Quentin Road,Lake Zurich,IL,60047.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17097,Lake
+way/751185615,way,751185615,McDonald's,McDonald's,42.2255357,-88.31143954999999,551,Crystal Point Drive,Crystal Lake,IL,60014.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17111,McHenry
+way/752736846,way,752736846,McDonald's,McDonald's,41.2972534,-88.1406345,,South Water Street,Wilmington,IL,60481.0,Q38076,fast_food,yes,2024-02-06 23:25:21+00:00,1,,17197,Will
+way/769164839,way,769164839,McDonald's,McDonald's,38.88921085,-90.17431935,717,East Broadway,Alton,IL,62002.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17119,Madison
+way/772613292,way,772613292,McDonald's,McDonald's,42.3019814,-89.6450419,1300,West Galena Avenue,Freeport,IL,61032.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17177,Stephenson
+way/777531825,way,777531825,McDonald's,McDonald's,41.5334529,-88.1997858,631,Brookforest Avenue,Shorewood,IL,60404.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17197,Will
+way/777532391,way,777532391,McDonald's,McDonald's,41.56198075,-88.19957525000001,2220,Illinois Route 59,Plainfield,IL,60586.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17197,Will
+way/785988914,way,785988914,McDonald's,McDonald's,42.0069978,-88.14411755,7455,Barrington Road,Hanover Park,IL,60133.0,Q38076,fast_food,yes,2026-07-20 21:35:08+00:00,1,,17031,Cook
+way/802417554,way,802417554,McDonald's,McDonald's,42.34825875,-87.88181085,3249,Belvidere Road,Park City,IL,60085.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17097,Lake
+way/804705380,way,804705380,McDonald's,McDonald's,42.064805,-87.800257,530,Waukegan Road,Glenview,IL,60025.0,Q38076,fast_food,yes,2024-02-06 23:25:21+00:00,1,,17031,Cook
+way/806672511,way,806672511,McDonald's,McDonald's,41.505574800000005,-87.79180255,7215,West Lincoln Highway,Frankfort,IL,60423.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17197,Will
+way/806684756,way,806684756,McDonald's,McDonald's,41.5081091,-87.8488172,21011,South La Grange Road,Frankfort,IL,60423.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17197,Will
+way/808215208,way,808215208,McDonald's,McDonald's,40.15848695,-89.38781750000001,,,,,,Q38076,fast_food,yes,2024-02-06 23:25:21+00:00,1,,17107,Logan
+way/810645698,way,810645698,McDonald's,McDonald's,42.2880042,-89.11546770000001,3710,Auburn Street,Rockford,IL,61101.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17201,Winnebago
+way/824055566,way,824055566,McDonald's,McDonald's,41.9967253,-88.31667354999999,100,North McLean Boulevard,South Elgin,IL,60177.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17089,Kane
+way/824549922,way,824549922,McDonald's,McDonald's,41.78174825,-88.28112515000001,1185,North Farnsworth Avenue,Aurora,IL,60505.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17089,Kane
+way/826131917,way,826131917,McDonald's,McDonald's,42.25239495,-89.0874078,1441,Kishwaukee Street,Rockford,IL,61104.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17201,Winnebago
+way/826346143,way,826346143,McDonald's,McDonald's,41.93705185,-88.07679974999999,292,East Army Trail Road,Glendale Heights,IL,60139.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17043,DuPage
+way/832382244,way,832382244,McDonald's,McDonald's,41.9816494,-88.0703483,489,Irving Park Road,Roselle,IL,60172.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17043,DuPage
+way/838518977,way,838518977,McDonald's,McDonald's,37.806696200000005,-88.44033495,,,,,,Q38076,fast_food,yes,2025-08-27 06:15:01+00:00,1,,17165,Saline
+way/845230656,way,845230656,McDonald's,McDonald's,38.3774019,-88.05976555000001,,,,,,Q38076,fast_food,,2024-02-06 23:25:21+00:00,1,,17047,Edwards
+way/847720418,way,847720418,McDonald's,McDonald's,40.5661003,-90.03425165,,,,,,Q38076,fast_food,,2024-02-06 23:25:21+00:00,1,,17057,Fulton
+way/849984430,way,849984430,McDonald's,McDonald's,38.0897848,-88.5430541,,,Mcleansboro,IL,62859.0,Q38076,fast_food,,2024-02-06 23:25:21+00:00,1,,17065,Hamilton
+way/850669402,way,850669402,McDonald's,McDonald's,41.6547855,-88.2028661,12501,South Route 59,Plainfield,IL,60544.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17197,Will
+way/850669535,way,850669535,McDonald's,McDonald's,41.7055924,-88.20484865,3232,South Illinois Route 59,Naperville,IL,60564.0,Q38076,fast_food,yes,2024-05-19 16:39:26+00:00,1,,17197,Will
+way/850669632,way,850669632,McDonald's,McDonald's,41.80916929999999,-87.99202115,225,East Ogden Avenue,Downers Grove,IL,60515.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17043,DuPage
+way/850669800,way,850669800,McDonald's,McDonald's,41.976126750000006,-88.1295942,1050,East Lake Street,Hanover Pk,IL,60133.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17043,DuPage
+way/851353047,way,851353047,McDonald's,McDonald's,41.5212626,-88.1845205,4280,West Jefferson Street,Joliet,IL,60431.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17197,Will
+way/851353090,way,851353090,McDonald's,McDonald's,41.52758805,-88.06936075,,,,IL,60432.0,Q38076,fast_food,yes,2024-06-06 07:43:39+00:00,1,,17197,Will
+way/860861149,way,860861149,McDonald's,McDonald's,42.03508789999999,-88.3141598,1480,Larkin Avenue,Elgin,IL,60123.0,Q38076,fast_food,yes,2025-08-07 21:44:41+00:00,1,,17089,Kane
+way/862426883,way,862426883,McDonald's,McDonald's,42.45569125,-89.02699385,13454,Quail Trail,Rockton,IL,61073.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17201,Winnebago
+way/86334624,way,86334624,McDonald's,McDonald's,41.92677765,-87.883884,2627,North Mannheim Road,Franklin Park,IL,60131.0,Q38076,fast_food,yes,2024-11-04 13:37:24+00:00,1,,17031,Cook
+way/874465878,way,874465878,McDonald's,McDonald's,41.700784,-87.73952299999999,10533,South Cicero Avenue,Oak Lawn,IL,60453.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17031,Cook
+way/882827907,way,882827907,McDonald's,McDonald's,41.80453715,-88.04688105,2535,Ogden Avenue,Downers Grove,IL,60515.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17043,DuPage
+way/895116892,way,895116892,McDonald's,McDonald's,41.790745900000005,-88.20496059999999,1376,North Illinois Route 59,Naperville,IL,60563.0,Q38076,fast_food,yes,2024-12-03 06:19:56+00:00,1,,17043,DuPage
+way/929332204,way,929332204,McDonald's,McDonald's,41.8084209,-87.6963071,2844,West 47th Street,Chicago,IL,60632.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17031,Cook
+way/929754558,way,929754558,McDonald's,McDonald's,41.4560341,-90.4985381,2701,69th Avenue Court,Moline,IL,61265.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17161,Rock Island
+way/930852017,way,930852017,McDonald's,McDonald's,41.5672419,-87.6368859,17740,Halsted Street,Homewood,IL,60430.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17031,Cook
+way/930853633,way,930853633,McDonald's,McDonald's,41.6017251,-87.79588495,15920,Harlem Avenue,Tinley Park,IL,60477.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17031,Cook
+way/93478703,way,93478703,McDonald's,McDonald's,41.16035694999999,-87.85033525,1180,North Kinzie Avenue,Bradley,IL,60915.0,Q38076,fast_food,yes,2025-04-10 22:56:37+00:00,1,,17091,Kankakee
+way/94669102,way,94669102,McDonald's,McDonald's,42.0510021,-87.9782642,45,East Golf Road,Arlington Heights,IL,60005.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17031,Cook
+way/955372883,way,955372883,McDonald's,McDonald's,41.86602695,-87.6840077,2315,West Ogden Avenue,Chicago,IL,60612.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17031,Cook
+way/95982595,way,95982595,McDonald's,McDonald's,41.5518112,-88.0883741,1555,North Broadway,Joliet,IL,60435.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17197,Will
+way/965484500,way,965484500,McDonald's,McDonald's,42.22560955,-89.07281875,3237,11th Street,Rockford,IL,61109.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17201,Winnebago
+way/967108857,way,967108857,McDonald's,McDonald's,41.93492895,-89.06885265,1120,North 7th Street,Rochelle,IL,61068.0,Q38076,fast_food,yes,2024-01-17 09:40:55+00:00,1,,17141,Ogle
+way/967369639,way,967369639,McDonald's,McDonald's,42.45830725,-87.8256694,2028,Sheridan Road,Zion,IL,60099.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17097,Lake
+way/96767859,way,96767859,McDonald's,McDonald's,41.55429575,-88.12404605,1720,Plainfield Road,Crest Hill,IL,60435.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17197,Will
+way/974158788,way,974158788,McDonald's,McDonald's,42.19831795,-87.93278235,450,Milwaukee Avenue,Lincolnshire,IL,60069.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17097,Lake
+way/975247344,way,975247344,McDonald's,McDonald's,41.449726,-90.56779315,400,West 1st Street,Milan,IL,61264.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17161,Rock Island
+way/979569628,way,979569628,McDonald's,,41.47691265,-90.5052926,,36th Avenue,Moline,IL,61265.0,Q38076,,,2026-07-15 07:33:50+00:00,1,building with McDonald's brand but no amenity tag,17161,Rock Island
+way/988686291,way,988686291,McDonald's,McDonald's,41.65824395,-88.4445097,3,West Veterans Parkway,Yorkville,IL,60560.0,Q38076,fast_food,yes,2026-06-24 20:25:18+00:00,1,,17093,Kendall
+way/993104842,way,993104842,McDonald's,McDonald's,41.76513185,-88.3671825,2095,West Galena Boulevard,Aurora,IL,60506.0,Q38076,fast_food,yes,2024-05-09 12:00:03+00:00,1,,17089,Kane
+way/997223515,way,997223515,McDonald's,McDonald's,38.314068,-88.95618214999999,102,Potomac Boulevard,Mount Vernon,IL,62864.0,Q38076,fast_food,yes,2026-06-01 13:04:14+00:00,1,,17081,Jefferson

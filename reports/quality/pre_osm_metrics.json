@@ -1,0 +1,188 @@
+{
+  "n_elements": 864,
+  "by_type": {
+    "way": 642,
+    "node": 221,
+    "relation": 1
+  },
+  "osm_base": "2026-07-27T09:00:00Z",
+  "accuracy": {
+    "n_classified_restaurant": 830,
+    "n_not_restaurant": 34,
+    "not_restaurant_by_reason": {
+      "PlayPlace playground mapped separately": 23,
+      "charity: Ronald McDonald House": 7,
+      "closed (disused/was/end_date tag)": 2,
+      "other object (sign, camera, etc.), not a restaurant": 2
+    },
+    "restaurants_building_without_amenity": 2,
+    "restaurants_by_addr_state": {
+      "IL": 587,
+      "<missing>": 104,
+      "MO": 91,
+      "IA": 22,
+      "IN": 19,
+      "KY": 6,
+      "WI": 1
+    },
+    "not_restaurant_examples": [
+      {
+        "osm_uid": "node/7278043526",
+        "name": "McDonald's",
+        "amenity": NaN,
+        "highway": NaN,
+        "shop": NaN
+      },
+      {
+        "osm_uid": "node/11391328740",
+        "name": "McDonald's PlayPlace",
+        "amenity": NaN,
+        "highway": NaN,
+        "shop": NaN
+      },
+      {
+        "osm_uid": "node/13781529532",
+        "name": "McDonald's PlayPlace",
+        "amenity": NaN,
+        "highway": NaN,
+        "shop": NaN
+      },
+      {
+        "osm_uid": "node/13781633736",
+        "name": "McDonald's PlayPlace",
+        "amenity": NaN,
+        "highway": NaN,
+        "shop": NaN
+      },
+      {
+        "osm_uid": "node/13781677866",
+        "name": "McDonald's PlayPlace",
+        "amenity": NaN,
+        "highway": NaN,
+        "shop": NaN
+      },
+      {
+        "osm_uid": "node/13781677868",
+        "name": "McDonald's PlayPlace",
+        "amenity": NaN,
+        "highway": NaN,
+        "shop": NaN
+      },
+      {
+        "osm_uid": "node/8486527210",
+        "name": "McDonald's PlayPlace",
+        "amenity": NaN,
+        "highway": NaN,
+        "shop": NaN
+      },
+      {
+        "osm_uid": "way/420277524",
+        "name": "Ronald McDonald House",
+        "amenity": NaN,
+        "highway": NaN,
+        "shop": NaN
+      },
+      {
+        "osm_uid": "node/4461101677",
+        "name": "McDonald's PlayPlace",
+        "amenity": NaN,
+        "highway": NaN,
+        "shop": NaN
+      },
+      {
+        "osm_uid": "way/816418236",
+        "name": "Ronald McDonald House",
+        "amenity": "social_facility",
+        "highway": NaN,
+        "shop": NaN
+      },
+      {
+        "osm_uid": "node/11296630101",
+        "name": "McDonald's PlayPlace",
+        "amenity": NaN,
+        "highway": NaN,
+        "shop": NaN
+      },
+      {
+        "osm_uid": "node/11296630110",
+        "name": "McDonald's PlayPlace",
+        "amenity": NaN,
+        "highway": NaN,
+        "shop": NaN
+      },
+      {
+        "osm_uid": "node/13733566646",
+        "name": "McDonald's PlayPlace",
+        "amenity": NaN,
+        "highway": NaN,
+        "shop": NaN
+      },
+      {
+        "osm_uid": "node/13733566647",
+        "name": "McDonald's PlayPlace",
+        "amenity": NaN,
+        "highway": NaN,
+        "shop": NaN
+      },
+      {
+        "osm_uid": "way/1044127617",
+        "name": "Ronald McDonald House",
+        "amenity": "social_facility",
+        "highway": NaN,
+        "shop": NaN
+      }
+    ],
+    "n_outside_il_bbox": 0,
+    "addr_state_values": {
+      "IL": 587,
+      "<missing>": 104,
+      "MO": 91,
+      "IA": 22,
+      "IN": 19,
+      "KY": 6,
+      "WI": 1
+    },
+    "restaurants_without_brand_wikidata": 0
+  },
+  "completeness_pct_present_restaurants": {
+    "lat": 100.0,
+    "lon": 100.0,
+    "brand:wikidata": 100.0,
+    "addr:housenumber": 85.9,
+    "addr:street": 85.5,
+    "addr:city": 82.3,
+    "addr:postcode": 87.7,
+    "opening_hours": 80.0,
+    "drive_through": 90.1
+  },
+  "completeness": {
+    "missing_coordinates": 0
+  },
+  "consistency": {
+    "name_variants": {
+      "McDonald's": 828,
+      "<missing>": 2
+    },
+    "duplicate_osm_ids": 0,
+    "near_duplicate_pairs_lt_75m": 1,
+    "postcode_formats": {
+      "5_digit": 633,
+      "zip_plus_4": 95,
+      "other": 0
+    },
+    "amenity_values": {
+      "fast_food": 828,
+      "<missing>": 2
+    }
+  },
+  "timeliness": {
+    "snapshot_osm_base": "2026-07-27T09:00:00Z",
+    "last_edit_min": "2019-07-27 22:30:00+00:00",
+    "last_edit_max": "2026-07-21 23:11:46+00:00",
+    "median_years_since_edit": 2.21,
+    "pct_edited_within_1y": 13.0,
+    "pct_edited_within_3y": 99.8,
+    "pct_not_edited_5y_plus": 0.1,
+    "pct_with_check_date": 14.1
+  }
+}

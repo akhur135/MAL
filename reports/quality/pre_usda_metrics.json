@@ -1,0 +1,67 @@
+{
+  "n_tracts": 3115,
+  "expected_tracts_2010": 3123,
+  "n_columns_total": 147,
+  "selected_columns_absent": [],
+  "completeness": {
+    "pct_missing_by_column": {
+      "lalowi10": 91.52,
+      "lapop10": 91.52,
+      "LALOWI1_10": 45.91,
+      "LAPOP1_10": 45.91,
+      "lalowi1": 38.52,
+      "lapop1": 38.52,
+      "MedianFamilyIncome": 0.67,
+      "Urban": 0.0,
+      "Pop2010": 0.0,
+      "LATracts1": 0.0,
+      "LILATracts_1And10": 0.0,
+      "LA1and10": 0.0,
+      "PovertyRate": 0.0,
+      "OHU2010": 0.0,
+      "LowIncomeTracts": 0.0,
+      "LATracts10": 0.0,
+      "TractHUNV": 0.0
+    },
+    "tracts_with_zero_population": 0,
+    "lapop1_missing_in_populated_tracts": 1200,
+    "distinct_counties": 102,
+    "expected_counties": 102
+  },
+  "accuracy": {
+    "lapop1_gt_pop2010": 0,
+    "lalowi1_gt_lapop1": 0,
+    "LAPOP1_10_gt_pop2010": 0,
+    "poverty_rate_outside_0_100": 0,
+    "Urban_not_0_1": 0,
+    "LowIncomeTracts_not_0_1": 0,
+    "LA1and10_not_0_1": 0,
+    "LILATracts_1And10_not_0_1": 0,
+    "LATracts1_not_0_1": 0,
+    "LATracts10_not_0_1": 0,
+    "negative_values": 0
+  },
+  "consistency": {
+    "tract_id_lengths": {
+      "11": 3115
+    },
+    "tract_ids_all_digits": true,
+    "tract_ids_start_17": true,
+    "duplicate_tracts": 0,
+    "county_name_examples": [
+      "Adams County",
+      "Alexander County",
+      "Bond County",
+      "Boone County",
+      "Brown County"
+    ],
+    "county_name_has_suffix": true,
+    "fips_to_name_one_to_one": true
+  },
+  "timeliness": {
+    "retailer_list_year": 2019,
+    "population_basis": "2010 Decennial Census (Pop2010) on 2010 tract boundaries",
+    "income_basis": "ACS 2014-2018 (tract poverty rate / median family income)",
+    "ers_last_updated": "2021-04-27"
+  }
+}

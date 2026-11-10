@@ -1,0 +1,10 @@
+variable,n,spearman_rho,p_value
+median_hh_income,102,-0.054,0.5915
+acs_population,102,0.124,0.2145
+pct_low_access_1_10,102,-0.051,0.6131
+pct_low_access_1_10_upper,102,-0.042,0.6763
+pct_pop_in_lila_tracts,102,0.145,0.146
+pop_density_per_sqmi,102,0.169,0.0902
+median_hh_income (counties >= 20k pop),57,-0.137,0.3099
+pct_low_access_1_10 (counties >= 20k pop),57,-0.007,0.9588
+pct_pop_in_lila_tracts (counties >= 20k pop),57,0.287,0.0306

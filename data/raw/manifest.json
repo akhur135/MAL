@@ -1,0 +1,50 @@
+{
+  "data/cache/tl_2024_us_county.zip": {
+    "bytes": 83913260,
+    "notes": "National file, not committed (>50 MB); re-downloaded by this script",
+    "retrieved_utc": "2026-11-10T20:14:08Z",
+    "sha256": "04e668d3502757c837c13444730547cd967f28a2c49aeffb873d1792ab2cb97b",
+    "source": "U.S. Census Bureau TIGER/Line 2024 (public domain)",
+    "url": "https://www2.census.gov/geo/tiger/TIGER2024/COUNTY/tl_2024_us_county.zip"
+  },
+  "data/raw/census/acs5_2024_il_county.json": {
+    "bytes": 8745,
+    "notes": "",
+    "retrieved_utc": "2026-11-10T20:18:36Z",
+    "sha256": "0cdff812fe6ff940a569ff9ca18a62be9958b367520d913161ddd0a06fb52369",
+    "source": "U.S. Census Bureau, ACS 5-year estimates 2020-2024 (public domain)",
+    "url": "https://api.census.gov/data/2024/acs/acs5?get=NAME,B01003_001E,B01003_001M,B19013_001E,B19013_001M&for=county:*&in=state:17"
+  },
+  "data/raw/osm/mcdonalds_il_ohsome.geojson": {
+    "bytes": 1014162,
+    "notes": "OSM snapshot 2026-07-27T09:00:00Z; bbox -91.52,36.97,-87.49,42.51",
+    "retrieved_utc": "2026-11-10T22:06:10Z",
+    "sha256": "741d860fd269714bf942c92ac0b7c6c9541024ee0616bc2feb2b91c2c7897602",
+    "source": "OpenStreetMap contributors (ODbL 1.0) via ohsome API, HeiGIT",
+    "url": "https://api.ohsome.org/v1/elements/bbox?bboxes=-91.52%2C36.97%2C-87.49%2C42.51&filter=brand%3Awikidata%3DQ38076+or+brand%3D%22McDonald%27s%22+or+name+in+%28%22McDonald%27s%22%2C+%22McDonalds%22%2C+%22Mcdonald%27s%22%2C+%22Mcdonalds%22%2C+%22McDonald%E2%80%99s%22%2C+%22Mc+Donald%27s%22%2C+%22MCDONALD%27S%22%2C+%22MCDONALDS%22%2C+%22McDonald%27s+Restaurant%22%2C+%22Ronald+McDonald+House%22%29&properties=tags%2Cmetadata&time=2026-07-27T09%3A00%3A00Z"
+  },
+  "data/raw/tiger/il_counties_2024.geojson": {
+    "bytes": 4466735,
+    "notes": "",
+    "retrieved_utc": "2026-11-10T20:14:10Z",
+    "sha256": "5de2561f2c3f03cb6ff5fbd6df77cf7be7c72e7a99b4836c12c1693768ca462e",
+    "source": "Derived: Illinois rows of TIGER/Line 2024 counties",
+    "url": "https://www2.census.gov/geo/tiger/TIGER2024/COUNTY/tl_2024_us_county.zip"
+  },
+  "data/raw/usda/lram_2019.zip": {
+    "bytes": 9072578,
+    "notes": "Data last updated by ERS 2021-04-27; 2010 census tract geography",
+    "retrieved_utc": "2026-11-10T20:13:18Z",
+    "sha256": "6a56bb6ab1f35874b850257f0d3f3657e335af1d2d12bf6a64b4868e5e54465d",
+    "source": "USDA ERS, 2019 Large Retailer Access Map / Food Access Research Atlas (public domain)",
+    "url": "https://www.ers.usda.gov/media/5627/2019-large-retailer-access-map-lram-formerly-known-as-the-food-access-research-atlas-fara-data.zip"
+  },
+  "data/raw/usda/lram_2019_illinois.csv": {
+    "bytes": 1457584,
+    "notes": "",
+    "retrieved_utc": "2026-11-10T20:13:20Z",
+    "sha256": "44c0b66e771a7728ba9fde7193c3dbffb50b8d8ab8241cefbc8830993997d624",
+    "source": "Derived: Illinois rows of lram_2019.zip, unmodified",
+    "url": "https://www.ers.usda.gov/media/5627/2019-large-retailer-access-map-lram-formerly-known-as-the-food-access-research-atlas-fara-data.zip"
+  }
+}
