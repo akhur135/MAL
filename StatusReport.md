@@ -107,4 +107,9 @@ restaurants are rural. These are descriptive associations only.
 5. **Different years and geographies across sources.** We integrate at the county level and flag counties whose population changed a lot.
 
 ## 6. Individual contributions
-
+### Mahitha Pamulapati
+I led the USDA food access data. I found that ERS had renamed the atlas the 2019 Large Retailer Access Map, and I wrote
+[`acquire_usda_fara.py`](scripts/acquire/acquire_usda_fara.py) to download it, checksum it and extract the 3,115 Illinois tracts. In
+[`profile_usda.py`](scripts/quality/profile_usda.py) I discovered that blank low-access counts occur only in unflagged tracts, and I used the
+ERS flag rule to bound them. [`clean_usda.py`](scripts/clean/clean_usda.py) builds the 1-mile/10-mile measure, which matches ERS exactly, and
+aggregates tracts to counties. I defined the urban/rural rule, fixed the missing project-plan release, and drafted this report.
