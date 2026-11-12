@@ -120,3 +120,10 @@ in [`acquire_osm.py`](scripts/acquire/acquire_osm.py), pinned to the 2026-07-27 
 I identified 34 non-restaurant features, including PlayPlace playgrounds, Ronald McDonald Houses, closed locations, a camera and a sign.
 [`clean_osm.py`](scripts/clean/clean_osm.py) removes them with logged reasons and merges duplicates. I also acquired the TIGER county boundaries
 and wrote [`assign_counties.py`](scripts/integrate/assign_counties.py), the spatial join that placed 652 restaurants in Illinois counties and logged the 177 restaurants outside the state.
+
+### Anishka Khurana
+I led the Census demographic data. I selected the ACS 2020-2024 population and median household income variables with their margins of error,
+and I wrote [`acquire_census_acs.py`](scripts/acquire/acquire_census_acs.py) to download all 102 Illinois counties while keeping the API key out
+of the repository. In [`profile_census.py`](scripts/quality/profile_census.py) I checked county coverage, missing-value codes and reliability using the
+coefficient of variation; every county is under 15%. [`clean_census.py`](scripts/clean/clean_census.py) converts text values to numbers, removes the
+codes, builds the FIPS join key, and adds a reliability flag that the analysis uses for small counties.
